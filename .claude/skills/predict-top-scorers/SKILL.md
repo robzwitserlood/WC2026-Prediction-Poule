@@ -1,17 +1,33 @@
 ---
 name: predict-top-scorers
-description: Pick the group-stage top-scorer basket (ranked 6, top 4 submitted) by maximising expected goals × Scorito position multiplier, grounded in our own predicted scorelines. Run once after the group stage is predicted.
+description: Pick the top-scorer basket (ranked 6, top 4 submitted) by maximising expected goals × Scorito position multiplier, grounded in our own predicted scorelines. Run once after the group stage, then re-pick once per knockout phase (Scorito allows a fresh 4 each phase).
 ---
 
 # predict-top-scorers
 
-Produce the **group-stage top-scorer basket**: a ranked **6**, of which the **top 4** are the Scorito
-submission (Scorito takes 4 per phase) and 5–6 are reserves. This is a **bonus value bet**, run **once**
-after round 3 — not round by round.
+Produce a **top-scorer basket**: a ranked **6**, of which the **top 4** are the Scorito submission
+(Scorito takes 4 per phase) and 5–6 are reserves. This is a **bonus value bet**.
 
 > **Runs as a single Opus pass (the `top-scorer-picker` agent).** This is a value pick, so it gets the
-> top tier — but it's a once-off bonus, not the per-round match card, so it does **not** use the
-> 3-advisor ensemble. One Opus agent reads this file as spec and writes the basket.
+> top tier — but it's a bonus bet, not the per-round match card, so it does **not** use the advisor
+> ensemble. One Opus agent reads this file as spec and writes the basket.
+
+## Two modes (Scorito lets you re-pick 4 every phase)
+
+The orchestrator passes either **group** (once, after round 3) or a **knockout stage code**
+(`r32`/`r16`/`qf`/`sf`/`final`, re-picked each phase). The method is identical; only the inputs,
+the **position multipliers** (they scale up by stage), and the output path change:
+
+| | Group (once) | Knockout `<stage>` (per phase) |
+|---|---|---|
+| Goal ceiling | `state/standings/round-3.md` (each team's GF) | each **alive** team's predicted goals in `state/knockout/predictions-<stage>.md` |
+| Eligible players | all teams | **only teams still alive** in `<stage>` |
+| Multipliers | DEF/GK 64, MID 32, ATT 16 | the `<stage>` column of the position table in `state/poule-rules.md` (R16 96/48/24, QF 128/64/32, SF 160/80/40, Final 192/96/48) |
+| Output | `state/predictions/top-scorers.md` | `state/knockout/top-scorers-<stage>.md` |
+
+A knockout phase is usually a single match per team, so the realistic ceiling is small (0–2 goals) —
+which makes the **high-multiplier defender/penalty-mid value even sharper**: one set-piece header in a
+QF is 128 pts. Re-pick fresh each phase from the alive teams; do not carry forward eliminated players.
 
 ## The scoring lever: goals are weighted by **position** (read this first)
 
@@ -27,12 +43,16 @@ not all forwards.
 
 ## Inputs
 
+Group mode (knockout mode swaps in the right-hand column of the mode table above):
+
 - `state/standings/round-3.md` — each team's **predicted group goals = its GF column**. This is the
-  **ceiling**: a player can't score more than his team scored in our sim.
+  **ceiling**: a player can't score more than his team scored in our sim. *(Knockout: the alive
+  team's predicted goals in `state/knockout/predictions-<stage>.md`.)*
 - `state/teams/<team>.md` → the **`## Goal threats`** line: each team's 1–2 likely scorers, their
   **position**, **penalty/set-piece duty**, and **share of team goals**. (Refresh squad/injury first.)
 - `state/predictions/round-1.md … round-3.md` — to sanity-check *which* matches a team's goals came in.
-- `state/poule-rules.md` — the position multipliers above (the calibration).
+  *(Knockout: the stage card.)*
+- `state/poule-rules.md` — the position multipliers (the calibration; use the column for your stage).
 
 ## Method (hybrid: our sim sets the ceiling, research picks within it)
 
@@ -53,15 +73,15 @@ not all forwards.
 
 ## Output
 
-Write `state/predictions/top-scorers.md`:
+Write `state/predictions/top-scorers.md` (group) or `state/knockout/top-scorers-<stage>.md` (knockout):
 
 ```
-# Group-stage top scorers — Scorito basket
-Calibration: expected goals × position multiplier (DEF/GK 64, MID 32, ATT 16 per group-stage goal).
+# <Group-stage | STAGE> top scorers — Scorito basket
+Calibration: expected goals × position multiplier (use the stage's column from poule-rules.md).
 Submit the top 4; 5–6 are reserves.
 
 ## 1. <Player> — <Team> (POS) — SUBMIT
-- Our sim: <Team> predicted <G> group goals (round-3 standings GF)
+- Our sim: <Team> predicted <G> goals (group: round-3 GF; knockout: this stage's card)
 - Expected goals: <e>  (≈ <share>% of team goals; pens/set-pieces: <yes/no>)
 - Expected points: <e × mult>  (<e> × <mult>)
 - Value angle: why this is underrated vs the crowd's striker-heavy picks

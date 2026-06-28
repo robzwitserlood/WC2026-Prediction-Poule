@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "WebSearch(*)",
-      "WebFetch(*)"
+      "WebFetch(*)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:theanalyst.com)",
+      "WebFetch(domain:www.rsssf.org)",
+      "WebFetch(domain:www.uefa.com)",
+      "WebFetch(domain:www.ysscores.com)",
+      "WebFetch(domain:www.footballhistory.org)"
     ]
   }
 }
