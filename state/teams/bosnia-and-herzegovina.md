@@ -40,3 +40,13 @@ Pre-tournament: fans welcomed in Toronto ahead of opener, Jun 8. Source: WakingT
 **The Dzeko injury is the single biggest mis-information risk** — casual bettors and pre-tournament markets may not have fully adjusted for a potentially Dzeko-free Bosnia side. If Dzeko is confirmed absent or plays limited minutes across the group stage, Bosnia's goal expectation drops from ~1.9/g to ~1.2/g. Their primary threat metric (Dzeko carrying 50%+ of goals) collapses without him. **Bosnia at +650 to win the group could be slightly too SHORT if Dzeko misses entirely** (Canada and Switzerland would be clear 1-2). Conversely, **if Dzeko starts vs Canada and plays 60-70 mins, Bosnia have legitimate upset potential** against a Davies-less Canada opening in front of a hostile Toronto crowd. The Bosnia vs Canada scoreline is the most uncertain match in either group — both teams have significant injury absences for the opener. Watch for late Dzeko fitness confirmation closer to kickoff June 12.
 
 Sources: Bundesliga.com (Jun 2026), RotoWire (Jun 2026), NorthernTribune.ca (Jun 2026), Al Jazeera (Mar 2026), Tribuna.com (2025), LeagueLane.com (Jun 2026), BetMGM (Jun 2026), WakingTheRed (Jun 2026)
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Finished 3rd in Group B (W1 D1 L1, 5 GF 6 GA, 4 pts). Drew Canada 1-1 (R1 — Demirovic 55'), lost Switzerland 1-4 (R2 — Amdouni x2 for Switzerland, Bosnia goal uncertain; Muharemovic red card 56'), beat Qatar 3-1 (R3 — Dzeko 22', Prevljak 51', Bicakcic 88'). Qualified as one of the 8 best 3rd-placed teams. Source: NBC Sports, group-r2/r3 results 2026.
+- **Anel Muharemovic**: straight red vs Switzerland (R2, 56'). Served ban in R3 vs Qatar. **AVAILABLE for R32.** Yellow cards wiped. Source: 2026-06-28.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Edin Dzeko** (age 40): pre-tournament shoulder/torn ligament concern resolved sufficiently to score vs Qatar (R3, 22'). Still physically limited to managed minutes. Source: group-r3 results 2026-06-28.
+- **Ermedin Demirovic**: scored vs Canada (R1, 55'). The reliable second-option striker.
+- **R32 opponent**: United States (Match 82, Jul 1, Levi's Stadium, Santa Clara CA). USA won Group D and Christian Pulisic is returning from a calf injury. Bosnia are heavy underdogs but the free-hit pressure dynamic and Dzeko's set-piece threat in the box are the upset ingredients. Edin Dzeko vs USA in the Santa Clara atmosphere is his final act on the world stage.

@@ -47,3 +47,14 @@ Switzerland are the most reliable advancing team in Group B by a substantial mar
 **Watch**: Embolo's injury history — if he tweaks anything before the tournament, Switzerland's attacking threat drops significantly (Ndoye capable but not the same level of goal volume).
 
 Sources: Olympics.com (Jun 2026), karlobag.eu (Jun 2026), Squawka (Jun 2026), CBS Sports (Jun 2026), OddsShark (Jun 2026), BetMGM (Jun 2026), SoccerPunter (2025)
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Won Group B (W2 D1 L0, 7 GF 3 GA, 7 pts). Drew Qatar 1-1 (R1 — Amdouni 51'), beat Bosnia 4-1 (R2 — Amdouni x2, Zeqiri, Schar), beat Canada 2-1 (R3 — Amdouni 33', Xhaka 78'). Won the group as expected.
+- **Zeki Amdouni**: 4 goals in 3 group games — the tournament's hottest Swiss forward. Not in the original squad as the marquee name (that was Embolo) but completely stole the show. Source: group-r2/r3 results 2026-06-28.
+- **Granit Xhaka**: scored vs Canada (R3, 78'). Fit and commanding as captain throughout.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Xherdan Shaqiri**: confirmed NOT in the squad — first WC without Shaqiri since 2010. The wide creative playmaker's absence is a structural gap on the left.
+- **Breel Embolo**: injury history concerns pre-tournament; his role in the group stage vs Amdouni's emergence suggests he may be operating second-fiddle. Watch for the Embolo/Amdouni partnership in R32.
+- **R32 opponent**: Algeria (Match 85, Jul 2, BC Place, Vancouver). Algeria qualified 2nd from Group J (beat Jordan 2-1 R2, drew Austria 3-3 R3 — Mahrez brace including 90+3' equalizer). Riyad Mahrez is the primary threat and in peak form. Switzerland are clear favourites but Mahrez's set-piece and free-kick quality demand respect.

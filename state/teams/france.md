@@ -25,13 +25,13 @@ Sources: flashscore.com, ESPN, UEFA.com (fetched 2026-06-10).
 Sources: UEFA.com, flashscore.com (2026-06-10).
 
 ## Goal threats
-- **Kylian Mbappé** (ATT, Real Madrid) — Primary penalty taker. 2025-26 club season: 42 goals / 44 games across all competitions (La Liga: 24/28; UCL: 15/11 — UCL top scorer). International: 5 WCQ goals (joint France top scorer in qualifying). Accounts for ~35% of France's international goals. Fastest-ever to 50 France goals on pace. Key source: sofascore.com, realmadrid.com (May 2026).
-- **Ousmane Dembélé** (ATT/MID, Paris) — Secondary penalty option; corner/free-kick delivery. Strong club season, returned from injury in time for WC squad. Ballon d'Or winner 2024-25 (per FIFA squad article). Key creative outlet behind Mbappé.
+- **Kylian Mbappe** (ATT, Real Madrid) — Primary penalty taker. 2025-26 club season: 42 goals / 44 games across all competitions (La Liga: 24/28; UCL: 15/11 — UCL top scorer). International: 5 WCQ goals (joint France top scorer in qualifying). Accounts for ~35% of France's international goals. Fastest-ever to 50 France goals on pace. Key source: sofascore.com, realmadrid.com (May 2026).
+- **Ousmane Dembele** (ATT/MID, Paris) — Secondary penalty option; corner/free-kick delivery. Strong club season, returned from injury in time for WC squad. Ballon d'Or winner 2024-25 (per FIFA squad article). Key creative outlet behind Mbappe.
 - **Michael Olise / Rayan Cherki** — Corner and free-kick takers. Olise one of world's in-form attackers. Neither is a primary goal threat but both contribute to set-piece volume.
 Sources: sofascore.com, rotowire.com, fourfourtwo.com (2026-06-10).
 
 ## Squad signals (as of 2026-06-10)
-- **Mbappé**: Minor left-hamstring overload flagged in pre-tournament period; included in squad, Deschamps dismissed serious concerns. Managed workload at Real Madrid late-season. Watch for rotation in Iraq match.
+- **Mbappe**: Minor left-hamstring overload flagged in pre-tournament period; included in squad, Deschamps dismissed serious concerns. Managed workload at Real Madrid late-season. Watch for rotation in Iraq match.
 - **William Saliba** (DEF, Arsenal): Back issue requiring surgery post-tournament; Deschamps said available for WC, but may be managed.
 - **Camavinga**: Left out of squad entirely — "difficult season, injuries" (Deschamps). Midfield depth slightly reduced.
 - **Griezmann**: Retired from internationals — key set-piece threat gone. Penalty hierarchy reshuffled.
@@ -40,10 +40,10 @@ Sources: ESPN, FoxSports, beIN Sports (2026-06-10).
 
 ## Matchup notes
 - System: Deschamps 4-2-3-1 / 4-3-3 in possession, deep defensive block off the ball. Counter-press is light; shape priority over pressing intensity.
-- Mbappé single striker with Dembélé or Olise in the 10/wide role.
-- Set pieces: corners and free kicks via Olise/Cherki; Mbappé on penalties.
+- Mbappe single striker with Dembele or Olise in the 10/wide role.
+- Set pieces: corners and free kicks via Olise/Cherki; Mbappe on penalties.
 - Vulnerability: Deschamps' conservatism means France can look sterile vs. mid-block teams; pace in attack mitigates this. Iceland 2-2 in qualifying was a warning.
-- Conditions: France players based predominantly in top European leagues (Ligue 1, La Liga, PL) — no altitude/heat disadvantage. Group I games in Foxborough (June 16 vs Senegal), Philadelphia (June 22 vs Iraq), Boston (June 26 vs Norway). June New England/Philadelphia temps ~20-26°C — moderate, suits European-based squad.
+- Conditions: France players based predominantly in top European leagues (Ligue 1, La Liga, PL) — no altitude/heat disadvantage. Group I games in Foxborough (June 16 vs Senegal), Philadelphia (June 22 vs Iraq), Boston (June 26 vs Norway). June New England/Philadelphia temps ~20-26 degrees C — moderate, suits European-based squad.
 Sources: aljazeera.com, ESPN, prizepicks.com (2026-06-10).
 
 ## Market read
@@ -53,4 +53,15 @@ Sources: aljazeera.com, ESPN, prizepicks.com (2026-06-10).
 Sources: foxsports.com, ESPN betting, vegasinsider.com, Opta Analyst (2026-06-10).
 
 ## Mispricing flag
-NONE (France priced correctly as strong favourite). However: **Deschamps conservatism + Saliba managed + Mbappé hamstring caution = France may underperform expected scorelines in opening match vs. Senegal.** The market likely expects France to win all three group games comfortably; a draw or narrow win vs. Senegal opening game (Jun 16) could offer value on the Senegal side (see senegal.md). France vs. Iraq (Jun 22) expected to be a high-margin win — if backing France -2.5 or -3 Asian handicap, the risk is Mbappé rotation. Best value against France is Senegal or Norway in a "France fail to win" market if both key players are managed.
+NONE (France priced correctly as strong favourite). However: **Deschamps conservatism + Saliba managed + Mbappe hamstring caution = France may underperform expected scorelines in opening match vs. Senegal.** The market likely expects France to win all three group games comfortably; a draw or narrow win vs. Senegal opening game (Jun 16) could offer value on the Senegal side (see senegal.md). France vs. Iraq (Jun 22) expected to be a high-margin win — if backing France -2.5 or -3 Asian handicap, the risk is Mbappe rotation. Best value against France is Senegal or Norway in a "France fail to win" market if both key players are managed.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Won Group I with maximum 9 pts (W3 D0 L0, 10 GF 2 GA). Beat Senegal 3-1 (R1 — Mbappe x2, Barcola), beat Iraq 3-0 (R2 — Mbappe x2, Dembele), beat Norway 4-1 (R3 — Dembele hat-trick in 32 mins, Doue 90+4'). Dembele was the breakout performer with a historic hat-trick.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Kylian Mbappe**: 4 goals in 3 group games (R1 x2, R2 x2). Pre-tournament hamstring concern has not materialized — appears fully fit and in form.
+- **Ousmane Dembele**: hat-trick vs Norway (7', 20', 32') — second-fastest WC hat-trick in history. In exceptional form heading into R32.
+- **William Saliba**: played all 3 group games despite back surgery requirement post-tournament. Available but being managed.
+- **Hugo Ekitiike**: confirmed OUT for tournament (Achilles). Source: ESPN injury tracker, 2026-06-28.
+- **R32 opponent**: Sweden (Match 78, Jun 30, MetLife Stadium, East Rutherford NJ). Sweden qualified 3rd from Group F (drew 1-1 with Japan, beat Tunisia 5-1, drew 1-1 with Netherlands). Viktor Gyokeres scored twice in the group stage. France are clear favourites but Sweden's counter-attack via Gyokeres is a genuine threat to France's high line.

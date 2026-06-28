@@ -51,3 +51,14 @@ Portugal won UEFA World Cup qualifying Group F with 36 goals scored, 2 conceded,
 ## Mispricing flag
 
 **Slight overpricing on tournament outright (value is selling, not buying Portugal)**. The "Ronaldo last dance" narrative has shortened Portugal's outright from +1400 to +850–+1000. Their group record is elite (90% clean sheets, 3.6 GF/game), but WCQ opponents were weak (no top-25 sides). In the nations that matter — Spain, France, Germany — they drew or required penalties. Leão fitness/suspension risk hurts the left flank. The group stage itself is a near-certainty (94.9% Opta) — no value in backing Portugal to advance. **Value-adjacent: Portugal to win Group K by comfortable margin is priced right; the mild upset is Colombia to push them and force late drama (Jun 27 match is the group's fulcrum).**
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group K (W1 D2 L0, 6 GF 1 GA, 5 pts). Drew DR Congo 1-1 (R1 — Ronaldo 67'), beat Uzbekistan 5-0 (R2 — Ronaldo 35', Ronaldo 61', Ramos 44', Vitinha 55', Neves 78'), drew Colombia 0-0 (R3).
+- **Cristiano Ronaldo**: first player to score in 6 World Cups. Scored in R1 and R2 (brace vs Uzbekistan). Rested/benched for R3 vs Colombia. Fully available for R32. Source: ESPN, India.com 2026.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Goncalo Ramos, Joao Neves, Vitinha, Nuno Mendes**: all contributed in group stage; UCL winners with PSG arriving in peak fitness.
+- **Colombia 0-0 warning**: Portugal drew 0-0 with Colombia in R3 — could not break down a compact 5-4-1. Croatia will set up similarly to stifle Ronaldo. This is Portugal's primary R32 risk.
+- **Bruno Fernandes**: played all 3 group games but no goals recorded — the secondary playmaker is yet to click at this tournament.
+- **R32 opponent**: Croatia (Match 84, Jul 2, BMO Field, Toronto). Croatia beat Ghana 2-1 in R3 (Sucic 31', Vlasic 83'). Luka Modric (200+ caps, 40 years old) still pulling strings. Classic Portugal vs Croatia matchup — likely low-scoring, potentially going to extra time. Livakovic's penalty record (3 saves in 2022 WC shootout) is a structural Croatian advantage if it reaches pens.

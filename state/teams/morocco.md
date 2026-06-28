@@ -24,7 +24,7 @@ Expected to be more conservative vs Brazil, Scotland. Historic WC scoring: moder
 
 ## Goal threats
 - **Ayoub El Kaabi** (ATT, Olympiakos): top scorer in CAF qualifying with 4 goals. Direct striker. Source: Goal.com, SoccerPunter, Jun 2026.
-- **Brahim Díaz** (ATT/MID, Real Madrid): creative engine, Ouahbi's system designed around him. Not a volume scorer but key chance creator. Source: Al Jazeera/beIN Sports, Jun 2026.
+- **Brahim Diaz** (ATT/MID, Real Madrid): creative engine, Ouahbi's system designed around him. Not a volume scorer but key chance creator. Source: Al Jazeera/beIN Sports, Jun 2026.
 - **Achraf Hakimi** (DEF/RB, PSG): captain, 2025 UCL winner with PSG. Overlapping fullback; set-piece delivery, penalty threat. Africa's best player award 2025. 19 major trophies. Source: ESPN/beIN Sports, Jun 2026.
 - Note: Youssef En-Nesyri (6 goals in 2022 WC) did NOT make squad. Source: ESPN, May 2026.
 - Note: Sofiane Boufal (2022 WC hero) also absent. Source: Morocco World News, May 2026.
@@ -46,3 +46,13 @@ Group C odds to win group: +450 (implied ~18%). Tournament advance: 88.7% per Op
 
 ## Mispricing flag
 Coaching change is the central mispricing. Market prices Morocco as a near-automatic second-place qualifier (88.7% advance rate) based on 2022 form and squad quality. But Ouahbi has ZERO senior international coaching experience; the squad built under Regragui's identity may be tactically unsettled, especially in high-pressure opener vs Brazil. A stumble (draw or loss to Scotland on Jun 19) would be statistically underpriced. Scotland vs Morocco is a genuine 50/50 — market has Morocco as large favourite but with a new coach and without En-Nesyri's goals, the attacking output is genuinely uncertain. Morocco to advance is correctly priced; but Morocco to WIN Group C (+450) may be slightly generous given coach uncertainty.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group C (W2 D0 L1, 6 GF 4 GA). Drew 1-1 with Brazil (R1 — Saibari 21'), beat Scotland 1-0 (R2 — Saibari 2'), beat Haiti 4-2 in R3 (Hakimi 39', Saibari 45+1', Rahimi 78', Yassine 89'). Ismael Saibari has been their standout player with 3 goals.
+- **Suspensions**: No R32 suspensions. Abde Ezzalzouli and Nayef Aguerd were withdrawn from the squad due to injuries and replaced by Amine Sbai and Marwane Saadane — these withdrawals happened during the group stage. Source: Fox Sports World Cup Buzz, 2026-06-28.
+- **Aguerd injury**: Nayef Aguerd (CB) withdrawn from squad during tournament — defensive depth reduced. Source: Fox Sports World Cup Buzz, 2026-06-28.
+- **Achraf Hakimi**: scored vs Haiti (39') and providing set-piece quality throughout. Appears fully fit despite pre-tournament hamstring concerns. Source: ESPN, 2026-06-28.
+- **Ismael Saibari**: 3 group-stage goals — the tournament's breakthrough performer for Morocco. Key threat in R32.
+- **R32 opponent**: Netherlands (Match 76, Jun 29, Estadio BBVA, Monterrey MX). Netherlands carry major defensive injuries (de Ligt, de Vrij, Timber all OUT). Morocco's compact defensive block and Hakimi's delivery could cause problems. Ouahbi's coaching uncertainty remains the main risk factor.

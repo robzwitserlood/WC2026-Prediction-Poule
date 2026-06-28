@@ -35,6 +35,7 @@ Source: tips.gg, sportinglife.com (fetched 2026-06-10)
 - **Stefan de Vrij** — injury, out. **Matthijs de Ligt** — injury, out. Defensive cover is thin beyond Van Dijk + Van Hecke.
 - **Frenkie de Jong** — fit; structural anchor as double pivot with Gravenberch.
 - **Justin Kluivert** — recently returned from knee surgery; squad depth only.
+- **Jerdy Schouten** — ACL, OUT. Source: ESPN injury tracker, 2026-06-28.
 - System: 4-2-3-1 (Gravenberch + de Jong double pivot; Reijnders as #10; Gakpo wide; Depay CF) or 4-3-3.
 Source: Olympics.com, sportsmole.co.uk (2026-06-10)
 
@@ -55,3 +56,13 @@ Source: Olympics.com, sportsmole.co.uk (2026-06-10)
 
 ## Mispricing flag
 Netherlands has **significant defensive injuries** (Timber OUT, Simons OUT, de Vrij OUT, de Ligt OUT) yet are still priced as dominant -140 group favorites. Their warm-up against Algeria (0-1 loss, full lineup) and struggles vs Uzbekistan (2-1, Gakpo needed two pens) suggest their first XI isn't clicking. **Value: Japan to qualify from Group F at +300 is statistically defensible** given Japan's wins vs England (1-0) and Scotland (1-0), their high-press system, and Netherlands' defensive frailty. **Also: Netherlands to concede early in any match vs Japan (who pressed Germany and England deep) is a plausible scoreline over-market.** The 0-1 Algeria result suggests their defensive shape with the injury-depleted back line is genuinely fragile.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Won Group F (W2 D1 L0, 10 GF 4 GA). Brian Brobbey scored a brace in 17 minutes vs Sweden (among fastest WC braces in history). Cody Gakpo and Crysencio Summerville also scoring. Drew 2-2 with Japan (R1 — Van Dijk 51' + Summerville 64' vs Kamada 88' equalizer). Won Group F convincingly.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Confirmed out for tournament**: Jurrien Timber (groin), Xavi Simons (ACL), Stefan de Vrij, Matthijs de Ligt (back), Jerdy Schouten (ACL). Defensive line remains thin — Jan Paul Van Hecke and Geertruida deputising. Source: ESPN injury tracker, 2026-06-28.
+- **Memphis Depay**: pre-tournament thigh concern; appeared fit across group stage. Available.
+- **Brian Brobbey** emerged as a key striker option alongside Gakpo after his 5-1 Sweden performance (2 goals in 17 min).
+- **R32 opponent**: Morocco (Match 76, Jun 29, Estadio BBVA, Monterrey MX). Morocco scored freely in R3 (4-2 vs Haiti) with Saibari and Hakimi prominent. Netherlands' defensive injuries make this more competitive than the group record suggests. Night game in Monterrey (9 PM ET) — heat less of a factor.

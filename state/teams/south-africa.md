@@ -46,3 +46,12 @@ South Africa are correctly priced as longshots at +1200 for the group. The FLAGS
 4. Under-the-radar upside: if Foster is fit and Williams is sharp, a scrappy 1-1 draw with Mexico is more likely than +550 implies — South Africa are not 5:1 underdogs on form alone. **Potential value: South Africa draw vs Mexico (around +330) or South Africa to score in the opener.**
 
 Sources: ESPN Africa (Jun 2026), Olympics.com (Jun 2026), Goal.com (Jun 2026), CAF Online (2025), OddsShark (Jun 2026), Racing Post (Jun 2026)
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 3rd in Group A (W1 D0 L2, 2 GF 4 GA), but advanced as one of the best 3rd-placed teams. Historic — South Africa's first WC knockout stage since hosting in 2010.
+- **Suspensions**: Sphephelo Sithole and Themba Zwane both received straight reds vs Mexico (Jun 11) and served those bans in the next group game. **Both are available for R32.** Yellow cards reset after group stage — no accumulation carries forward. Source: Yahoo Sports red-card tracker, 2026-06-28.
+- **Key injury**: Ronwen Williams (GK) had pre-tournament fitness doubts; played all 3 group games — appears fit. Lyle Foster started and scored (63' vs South Korea R3) — fit for R32.
+- **Thapelo Maseko** scored the R3 winner vs South Korea (63') — key momentum goal. Form and morale are high after historic qualification.
+- **R32 opponent**: Canada (Match 73, Jun 28, SoFi Stadium, LA). Canada are heavy favourites — South Africa will need their compact defensive shape to absorb pressure and look for a set-piece sucker-punch. Hugo Broos has guided them to knockout stage precisely with this approach.

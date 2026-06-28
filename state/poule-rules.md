@@ -10,6 +10,7 @@ Points scale by stage via a multiplier; the group stage is the 1× base.
 | Stage        | Mult. | Correct result (toto) | Exact score |
 |--------------|-------|-----------------------|-------------|
 | Group        | 1×    | 60                    | 90          |
+| Round of 32  | 1×    | 60                    | 90          |
 | Round of 16  | 1.5×  | 90                    | 135         |
 | Quarterfinal | 2×    | 120                   | 180         |
 | Semifinal    | 2.5×  | 150                   | 225         |

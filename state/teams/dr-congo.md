@@ -23,16 +23,15 @@ DR Congo returns to the World Cup for the first time since 1974 (as Zaire). CAF 
 ## Goal threats
 
 - **Yoane Wissa** (ATT/W, Newcastle United) — primary danger man; pace and pressing ability; only 2 goals for Newcastle last season (poor club form); 6 goal contributions in qualifying (Opta). No penalty duty confirmed. ~30% of team goals. Source: Hooligan Soccer, Olympics.com 2026
-- **Cédric Bakambu** (ATT, Real Betis) — experienced finisher; 6 goal contributions in qualifying (Opta Analyst 2026). Age 33; question marks over peak fitness but brings big-game experience
+- **Cedric Bakambu** (ATT, Real Betis) — experienced finisher; 6 goal contributions in qualifying (Opta Analyst 2026). Age 33; question marks over peak fitness but brings big-game experience
 - **Ngal'ayel Mukau** (MID, Lille) — age 21; scored Champions League brace vs Bologna; powerful and progressive in midfield; indirect scorer but emerging force
-- **Chancel Mbemba** (DEF, Lille, captain) — scored the CAF semi-final winner vs Cameroon in stoppage time; 100+ caps; set-piece threat from corners. Position DEF — Scorito pays 4× for a defender goal; high-value flag. Source: Hooligan Soccer 2026
+- **Chancel Mbemba** (DEF, Lille, captain) — scored the CAF semi-final winner vs Cameroon in stoppage time; 100+ caps; set-piece threat from corners. Position DEF — Scorito pays 4x for a defender goal; high-value flag. Source: Hooligan Soccer 2026
 
 ## Squad signals (as of 2026-06-10)
 
-- **Khusanov (Man City)**: not in squad (he's Uzbekistan, noted for context)
 - Wissa club form has been poor at Newcastle (2 goals all season); international form may differ
 - Mbemba limited to 13 league appearances for Lille (fitness/rotation concern) but is a leader
-- Coach Sébastien Desabre: organized, defensively pragmatic setup
+- Coach Sebastien Desabre: organized, defensively pragmatic setup
 - US entry was an issue (Ebola travel restrictions); resolved by US authorities May 2026. Source: Al Jazeera 2026-05-19
 - Friendly vs Chile scheduled Jun 9 — result unavailable at time of research
 
@@ -53,4 +52,14 @@ DR Congo returns to the World Cup for the first time since 1974 (as Zaire). CAF 
 
 ## Mispricing flag
 
-**Mbemba set-piece DEF goal is a latent value pick for top-scorers.** If the predictor is looking for Scorito-valued goals (4× for defenders), Mbemba's qualifier goal and his aerial dominance at corners are worth flagging — market price for a defender goal is long at most books. **For match outcomes, DR Congo are correctly priced as group-stage fodder** — their narrow CAF qualifying route (won by pens/AET multiple times) and Wissa's poor club form suggest the 1.5 GF/game qualifying rate will regress against better defences. Against Uzbekistan (Jun 28, their most winnable game) they are mild favourites; against Portugal and Colombia they are heavy underdogs. No strong mispricing at match level beyond that.
+**Mbemba set-piece DEF goal is a latent value pick for top-scorers.** If the predictor is looking for Scorito-valued goals (4x for defenders), Mbemba's qualifier goal and his aerial dominance at corners are worth flagging — market price for a defender goal is long at most books. **For match outcomes, DR Congo are correctly priced as group-stage fodder** — their narrow CAF qualifying route (won by pens/AET multiple times) and Wissa's poor club form suggest the 1.5 GF/game qualifying rate will regress against better defences. Against Uzbekistan (Jun 28, their most winnable game) they are mild favourites; against Portugal and Colombia they are heavy underdogs. No strong mispricing at match level beyond that.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 3rd in Group K (W1 D1 L1, 4 GF 2 GA). Drew 1-1 with Portugal (R1 — Wissa 45+5'), lost 0-1 to Colombia (R2 — Munoz 76'), beat Uzbekistan 3-1 (R3 — Wissa 68'(p), Mayele 78', Wissa 90+1'). Qualified as one of the best 3rd-placed teams.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Yoane Wissa**: 3 goals in 3 group games (1-1 vs Portugal, brace vs Uzbekistan including a penalty). Completely reversed his poor Newcastle club form — the tournament's defining role reversal story. Primary R32 threat.
+- **Fiston Mayele**: scored vs Uzbekistan (R3, 78') — a second striker option in fine form alongside Wissa.
+- **Chancel Mbemba**: played all 3 games as captain; set-piece presence continues. No goals in group stage this time.
+- **R32 opponent**: England (Match 80, Jul 1, Mercedes-Benz Stadium, Atlanta GA). England won Group L and Harry Kane scored his 11th WC goal. DR Congo's counter-attack pace (Wissa) is the only realistic route to an upset. The Atlanta heat (July 1 afternoon) slightly favours DR Congo's African-league-conditioned players.

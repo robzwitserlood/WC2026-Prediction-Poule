@@ -53,3 +53,12 @@ Previous WC record: 2022 Qatar — P3 W0 D0 L3, 2 GF 12 GA (Davies scored Canada
 **Davies injury is the dominant variable** — bookmakers have already moved on his absence for the opener (market knows he's out). The mispricing may be in the **Canada to qualify odds (~50%)** — if Davies returns for games 2 and 3 as expected, Canada's ceiling rises substantially. Without Davies for the Bosnia opener, Canada are structurally vulnerable on the left. The **8 clean sheets in 10 friendlies looks impressive but the opponents were weak**; the 12 GA in 3 games at Qatar 2022 is the base rate against tournament-level competition. Jonathan David's form dip at Juventus is also underweighted by markets pricing Canada as ~equal to Bosnia. **Potential value: Bosnia and Herzegovina to take points off Canada in the opener (Davies out + Bosnia home crowd support).**
 
 Sources: SofaScore (Jun 2026), SI.com (Jun 2026), ESPN (Jun 2026), Yahoo Sports (Jun 2026), CBC Sports (Jun 2026), Olympic.ca (May 2026), BetMGM / Oddschecker (Jun 2026), Covers.com (Jun 2026)
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group B (W1 D1 L1, 8 GF 2 GA). Standout result: 6-0 thrashing of Qatar (Jonathan David hat-trick, two Qatar reds). Lost R3 to Switzerland 1-2 but still progressed as runners-up.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped after group stage. Qatar's Homam Ahmed and Assim Madibo reds in the Canada match were Qatar's own players — no impact on Canada. Source: red-card tracker, 2026-06-28.
+- **Alphonso Davies**: returned and played in R2 vs Qatar and R3 vs Switzerland — fully available for R32. Jonathan David scored a hat-trick vs Qatar (R2) — in excellent tournament form. Promise David scored vs Switzerland (R3) — squad depth showing.
+- **Marcelo Flores**: confirmed OUT for tournament (ACL rupture, pre-tournament). Source: ESPN injury tracker, 2026-06-28.
+- **R32 opponent**: South Africa (Match 73, Jun 28, SoFi Stadium, LA). Canada are favourites. Jonathan David's hat-trick form gives them a clear goal threat; Davies available and in form. South Africa arrive historic but tired — three games in two weeks for a squad unused to this level.

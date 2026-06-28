@@ -63,3 +63,16 @@ WCQ: 7W 1D 0L, 26 GF / 8 = 3.25 GF/game, 4 GA / 8 = 0.5 GA/game; ~6-7 clean shee
 ## Mispricing flag
 
 **Croatia's squad has three concurrent fitness concerns (Gvardiol, Kovačić, Modrić) that the market has not fully discounted.** At +350 to win Group L, Croatia is priced as a confident second qualifier — but their attacking output in the Belgium loss (0-2, Jun 2) and the Modrić/Kovačić fitness uncertainty is meaningful variance. **Nikola Vlašić at 33/1 for top Croatia scorer vs Kramarić at 3/1 is the most specific mispricing flag: Vlašić scored in both final WCQ matches and is in form, while Kramarić is older.** For match outcomes: Croatia is correctly priced to beat Ghana and Panama comfortably; the England game (Jun 17 opener) is the 1-0 to England or 0-0 territory — Croatia at +350 for the group is a thin bet given the injury concerns.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group L (W2 D0 L1, 5 GF 5 GA, 6 pts). Lost to England 2-4 (R1 — Kramaric 22', Perisic 68'), beat Panama 1-0 (R2 — Budimir 57'), beat Ghana 2-1 (R3 — Sucic 31', Vlasic 83'; og at 73').
+- **Luka Modric**: reached 200 caps milestone vs Panama (R2). At 40 years old, still orchestrating the team. Cheekbone fracture (from AC Milan season) healed. Source: FIFA 2026.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Nikola Vlasic**: scored in R3 (83') — match-winner vs Ghana. In form heading into R32.
+- **Luka Sucic**: scored in R3 (31') — the new generation player carrying Croatia's creative future. Standout in the group stage.
+- **Dominik Livakovic** (GK): 2022 WC shootout hero (3 saves vs Japan). If this goes to pens vs Portugal, Croatia have a structural edge.
+- **Andrej Kramaric**: scored vs England (R1, 22') — still delivering from the CF position. In form.
+- **Josko Gvardiol** and **Mateo Kovacic**: both pre-tournament fitness concerns; monitored across the group stage. Status for 90 min R32 intensity is the key health variable.
+- **R32 opponent**: Portugal (Match 84, Jul 2, BMO Field, Toronto). Portugal drew Colombia 0-0 in R3, showing they can be stifled by a compact block. Ronaldo was rested vs Colombia and returns fully fresh. Classic low-scoring matchup expected. Livakovic shootout pedigree is the structural wildcard.

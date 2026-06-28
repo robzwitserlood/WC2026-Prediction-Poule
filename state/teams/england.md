@@ -60,3 +60,15 @@ UEFA WCQ (8 games): P8 W8 D0 L0, 22 GF 0 GA, 8 clean sheets — perfect qualifyi
 ## Mispricing flag
 
 **England's tournament outright (+650) may be mild value given the strongest defensive qualifying record of any UEFA team and Kane's form.** However, the deeper mispricing is: **England will produce a lot of 1-0 and 2-0 results in the group** — their playing style under Tuchel is structure-first, not high-scoring. Against Ghana and Panama (weaker opponents), the default expectation should be 2-0 or 1-0, not 4-0. Against Croatia (Jun 17 opener), 1-0 is the most structurally defensible result given both teams' defensive solidity. Backing England to win every group game by a narrow margin (rather than big wins) is the correct scoreline frame. **The 0 GA in qualifying and xGA 2.1 is the key stat for predicting their matches — back the under on GA in any England group game.**
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Won Group L (W2 D1 L0, 6 GF 3 GA). Beat Croatia 4-2 (R1 — Kane x2, Bellingham, Rashford), drew 0-0 with Ghana (R2), beat Panama 2-0 (R3 — Bellingham 62', Kane 67').
+- **Harry Kane**: 11 goals in career World Cup matches — passed Gary Lineker's England WC record (10 goals) with his goal vs Panama. In fine form heading into R32.
+- **Jude Bellingham**: scored in R1 and R3 — consistently dangerous from midfield.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Reece James**: confirmed OUT for several matches with a hamstring issue; missed Panama game. Status for R32 is uncertain — likely a doubt. Source: ESPN injury tracker, goal.com, 2026-06-28.
+- **Tino Livramento**: confirmed OUT for tournament (calf), replaced by Trevoh Chalobah. Source: ESPN injury tracker, 2026-06-28.
+- **Declan Rice**: managed through a lower back/hamstring issue across the group stage; played all 3 games but fitness is monitored. Source: ESPN, 2026-06-28.
+- **R32 opponent**: DR Congo (Match 80, Jul 1, Mercedes-Benz Stadium, Atlanta GA). DR Congo qualified as one of the best 3rd-placed teams after beating Uzbekistan 3-1 in R3 (Yoane Wissa with a brace). England are heavy favourites but DR Congo's pace on the counter (Wissa, Ngal'ayel Mukau) and their WC debutant energy should not be entirely dismissed.

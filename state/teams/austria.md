@@ -65,3 +65,14 @@ SLIGHT OVERVALUATION vs Algeria at short prices. Rangnick's system is compelling
 4. Group win odds at 19% imply reasonable pricing. But if you're looking for value in the group, **Algeria +1 vs Austria** or a draw in their Group J decider (Jun 26) is probably correctly priced or slightly +EV.
 
 POTENTIAL VALUE: **David Alaba to score at any point in tournament** — as a DEF who takes set pieces, his Scorito multiplier (4×) is enormous. At 111 caps, Alaba has historically scored from set pieces. If he's fit, a corner or free-kick goal from Alaba at 6-8/1 on Scorito-style platforms is excellent value.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 3rd in Group J (W1 D1 L1, 5 GF 5 GA, 4 pts). Lost to Argentina 0-2 (R1), beat Jordan 2-1 (R2 — Arnautovic 55', Sabitzer 71'), drew Algeria 3-3 (R3 — Arnautovic 28', Sabitzer 55', Kalajdzic 90+6'). Qualified as one of the best 3rd-placed teams.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Marko Arnautovic**: 2 goals in group stage (R2, R3). Despite pre-tournament concerns about his age (37) and fitness, he delivered. Primary focal point for Austria's attack heading into R32.
+- **Marcel Sabitzer**: 2 goals in group stage (R2 and R3). The most complete outfield threat for Austria — goal + assist + set-piece delivery.
+- **Sasa Kalajdzic**: 90+6' equalizer vs Algeria in R3 — elite aerial delivery and timing under pressure. High-value set-piece threat in R32.
+- **David Alaba**: played all 3 group games as captain; returned from long knee injury without incident. Set-piece delivery at corners alongside Sabitzer.
+- **R32 opponent**: Spain (Match 83, Jul 2, SoFi Stadium, LA CA). CRITICAL context: Spain's Nico Williams suffered a right adductor muscle strain in R3 vs Uruguay and is OUT or severely limited for R32. Yeremy Pino also injured. Austria's Rangnick press targeting Spain's weakened right flank is the one plausible path to an upset. Arnautovic/Sabitzer/Kalajdzic set-piece threat vs Spain's defensive structure will be decisive.

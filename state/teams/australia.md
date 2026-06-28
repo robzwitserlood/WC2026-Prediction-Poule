@@ -50,3 +50,14 @@ Group D winner odds: +800/+850/+900 (implied ~10–11%). Lowest of 4 teams. Sour
 
 ## Mispricing flag
 Australia's extended Sarasota training camp (since April) is the standout undervalued factor. In a tournament where most European-based squads arrive with 1–2 weeks preparation, Australia has had ~2 months camp on US soil — potential physiological and tactical edge that market ignores. Irankunda (20, 5 goals in 14 caps, FIFA Series Player of Tournament) is a breakout candidate widely priced as a longshot. Australia's first match vs Türkiye in Vancouver (climate-controlled) means their heat acclimatisation is less relevant for match 1, but by match 2–3 it matters. At +800–900 to win the group, the value is limited — but Australia qualifying as a solid 3rd-place team (3 points from 3 games possible) may be underpriced in a genuinely open 4-team group. Biggest edge: defensive floor via Popovic system + Ryan GK makes Australia hard to beat comprehensively; expected points 3–4 from group stage is realistic, not 0–1 that their WC history implies.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group D (W1 D1 L1, 2 GF 2 GA, 4 pts). Beat Turkey 2-0 (R1 — Irankunda 27', Metcalfe 75'), lost to USA 0-2 (R2), drew Paraguay 0-0 (R3). Qualified as group runners-up. Source: Olympics.com, ussoccer.com 2026.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Nestory Irankunda**: scored vs Turkey (R1, 27') — the pre-tournament breakout star delivered immediately. The 20-year-old is Australia's primary attacking weapon heading into R32.
+- **Connor Metcalfe**: scored vs Turkey (R1, 75') — second goal of the tournament for the midfielder.
+- **Mathew Ryan** (GK): kept a clean sheet vs Turkey and was tested across the group stage. The veteran remains Australia's defensive backbone.
+- **17 of 26 squad members** are competing in their maiden World Cup — inexperience at this level is a structural factor heading into the knockout rounds.
+- **R32 opponent**: Egypt (Match 86, Jul 3, AT&T Stadium, Arlington TX). Egypt's Mohamed Salah suffered a hamstring strain vs Iran (R3) and his availability is uncertain. Egypt also have Ahmed Fatouh (LB, hamstring tear, OUT) and Mohamed Abdelmonem (ankle bruise, available). Australia have a legitimate chance if Salah cannot start.

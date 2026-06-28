@@ -46,3 +46,14 @@ Group D winner odds: +125/+140 (implied ~40–44%). Tournament advance probabili
 
 ## Mispricing flag
 USA's attack is very deep (Balogun 19g, Wright 17g, Pepi 19g, Pulisic consistent) but Pulisic's 8-game international drought is a notable warning. The market prices USA as 40% group winner based partly on home advantage — which is real but not historically decisive. The 3-back system with wingbacks leaves space on counter; Paraguay's low-block and transition game is precisely the style that threatens this. USA win probability vs Paraguay may be slightly overpriced; a 1-1 draw would be statistically defensible and likely under-priced. Group D is genuinely one of the most balanced, meaning USA's group winner price is fair but tournament advancement (~73%) may be where real value sits vs their group WIN price.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Won Group D (W2 D0 L1, 8 GF 4 GA, 6 pts). Beat Paraguay 4-1 (R1), beat Australia 2-0 (R2), lost to Turkey 2-3 (R3 — dead rubber, USA already qualified). First consecutive WC wins for USA since 1930. Source: US Soccer, Fox Sports 2026.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Christian Pulisic**: suffered calf injury vs Paraguay (R1, halftime exit), missed R2 vs Australia entirely, returned off the bench in R3 vs Turkey. **Entering R32 with optimism but match-sharpness is not at 100%.** His return is the defining storyline for the USA knockout campaign. Source: ESPN, Sky Sports 2026-06-25.
+- **Cardoso** (Atletico Madrid, CM): confirmed OUT for entire tournament — ankle surgery. The holding midfield role is the team's most exposed position. Source: Yahoo Sports 2026.
+- **Yunus Musah**: excluded from Pochettino's plans — not in squad. Source: Yahoo Sports 2026.
+- **Matt Turner** (GK, Arsenal): kept a clean sheet in R2 vs Australia; solid across all 3 group games.
+- **R32 opponent**: Bosnia and Herzegovina (Match 82, Jul 1, Levi's Stadium, Santa Clara CA). Bosnia qualified as 3rd in Group B (4 pts, beat Qatar 3-1 in R3). Edin Dzeko (age 40) leads their attack. USA are clear favourites on home soil with Pulisic's potential full return.

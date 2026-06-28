@@ -12,7 +12,7 @@ Form trend: two dominant wins just before the tournament; considerable confidenc
 - Pre-tournament form: very high-scoring (7 GF / 2 friendlies)
 
 ## Goal threats
-- **Kevin De Bruyne** (MID, corners/free kicks/penalties): 6 goals in qualifying, joint-top scorer; set-piece orchestrator and primary dead-ball taker. ~21 % of team qualifying goals. 65+ min goal vs Tunisia shows fitness on return from eye injury. Goals/90 in qualifying ≈ 0.75.
+- **Kevin De Bruyne** (MID, corners/free kicks/penalties): 6 goals in qualifying, joint-top scorer; set-piece orchestrator and primary dead-ball taker. ~21 % of team qualifying goals. 65+ min goal vs Tunisia shows fitness on return from eye injury. Goals/90 in qualifying approx 0.75.
 - **Romelu Lukaku** (ATT, pens): 90 international goals, Belgium's all-time leading scorer; only ~60 min competitive football this season due to hip injury at Napoli, scored once for club. "Out of shape" per coach Garcia. ~10 % chance to start opener. If fit, primary penalty taker.
 - **Malick Fofana** (ATT): top scorer in qualifying with 6 goals; emerging pace threat on the wing; ~21 % of team qualifying goals alongside De Bruyne.
 - **Leandro Trossard** (MID/ATT): 1 qualifying goal but strong pressing threat; scored in Tunisia warm-up.
@@ -47,3 +47,13 @@ Sources (fetched 2026-06-10):
 - Olympics.com / Goal.com — squad and stats
 - wc2026report.com — June 6 warm-up results
 - RotoWire — Group G tactical preview
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Won Group G (W2 D1 L0, 6 GF 1 GA). Drew 1-1 with Egypt (R1 — Belgium Mohamed Hany 66'(og)), drew 0-0 with Iran (R2 — Nathan Ngoy red card 66' for DOGSO), beat New Zealand 5-1 (R3 — Trossard x2, De Bruyne 66', Lukaku 86', Saelemaekers 90+4'). Lukaku became Belgium's all-time WC top scorer (6 goals) with his R3 goal.
+- **Nathan Ngoy**: received straight red vs Iran (R2, 67') and served that ban vs New Zealand (R3). **Ngoy IS available for R32.** Yellow cards wiped. Source: group-r2 results, 2026-06-28.
+- **Romelu Lukaku**: scored vs New Zealand (R3, 86'). Pre-tournament hip concerns appear resolved — available and on the scoresheet. Source: 2026-06-28.
+- **Kevin De Bruyne**: scored vs New Zealand (R3, 66'). Fitness confirmed across 3 group games.
+- **Leandro Trossard**: two goals in the R3 5-1 win — the standout performer of the group stage for Belgium.
+- **R32 opponent**: Senegal (Match 81, Jul 1, Lumen Field, Seattle WA). Senegal beat Iraq 5-0 in R3 and qualified as Group I runners-up. Sadio Mane is 34 but remains dangerous. Belgium's set-piece quality (De Bruyne delivery) vs Senegal's aerial defenders (Koulibaly) is the tactical battle to watch.

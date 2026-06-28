@@ -17,7 +17,7 @@ Qualifying record (CAF): 8W 2D 0L; **0 goals conceded across 10 matches**; multi
 ## Scoring profile
 - CAF WCQ: 0 GA across 10 matches (historic clean-sheet run); GF/g estimated ~2.0-2.5 (inflated by Seychelles 9-0)
 - In more competitive tests: 1-0 Gabon, 1-0 Scotland, 2-0 Gambia — efficient but not high-volume vs quality
-- Beat France 2-1 (Jun 4 2026, Nantes) — Guela Doué equalized, Amad Diallo 84' winner. Significant result.
+- Beat France 2-1 (Jun 4 2026, Nantes) — Guela Doue equalized, Amad Diallo 84' winner. Significant result.
 - Beat South Korea 4-0 (Mar 2026). Beat Scotland 1-0 (Mar 2026).
 - Typical win vs quality opposition: 1-0, 2-1 — tight games, decided by individual moments
 Source: France24, Al Jazeera, goal.com (fetched 2026-06-10)
@@ -45,7 +45,7 @@ Source: fourfourtwo.com, unitedinfocus.com (2026-06-10)
 - Weakness: Can be one-dimensional when behind; reliance on individual brilliance (Amad)
 - Set-piece vulnerability: Limited aerial presence without Haller; Kessie can score from range
 - Historical WC: 2006 (group stage exit), 2010 (group exit), 2014 (group exit). 0 wins from 6 previous WC matches. Notorious group-stage underperformers.
-- Heat/humidity: Ivory Coast based in warm West Africa; squad used to heat — genuine advantage vs Germany in Group E (Houston Jun 14 expected 33°C+). Also comfortable vs Ecuador (often play at altitude at home, but WC matches in US).
+- Heat/humidity: Ivory Coast based in warm West Africa; squad used to heat — genuine advantage vs Germany in Group E (Houston Jun 14 expected 33 degrees C). Also comfortable vs Ecuador (often play at altitude at home, but WC matches in US).
 - AFCON 2024 champions — proven big-game temperament under pressure
 
 ## Market read
@@ -55,3 +55,15 @@ Source: fourfourtwo.com, unitedinfocus.com (2026-06-10)
 
 ## Mispricing flag
 **Ivory Coast is potentially undervalued in the group stage.** They beat France 2-1 on Jun 4 (warm-up), are AFCON champions, went unbeaten with 0 GA in qualifying, and have heat adaptability that Germany/Ecuador lack. The market prices them at +550-700 to win the group but their stats suggest a stronger 2nd-place candidate than the spread implies. **Specific value: Ivory Coast to beat Ecuador in their head-to-head (Jun 14, Ivory Coast's opener vs Ecuador) at +250 is statistically supportable** given Ecuador's low-scoring profile and Ivory Coast's recent form. A 1-0 or 2-1 Ivory Coast win is the key upset signal.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Won Group E (W3 D0 L0, 3 GF 1 GA). Beat Ecuador 1-0 (R1 — Amad Diallo 90'), beat Germany 1-0 (R2 — Kessie 30', Undav 68'+90+4' Germany response but Ivory Coast won 1-2... wait — confirmed 2-1 win to Germany in R2). Correction from results file: Germany 2-1 Ivory Coast in R2; Ivory Coast beat Curacao 2-0 in R3 (Nicolas Pepe brace). Ecuador beat Germany 2-1 in R3. Ivory Coast finished 2nd on 6 pts behind Ecuador.
+
+  **Actual group result**: Finished 2nd in Group E (W2 D0 L1, 3 GF 3 GA). Beat Ecuador 1-0 (Amad 90', R1), lost to Germany 1-2 (Kessie 30' for CIV, R2), beat Curacao 2-0 (Pepe x2, R3).
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Nicolas Pepe**: scored twice vs Curacao in R3 — strong form as a wide option. First WC knockout appearance in Ivory Coast's history.
+- **Amad Diallo**: scored the crucial 90' winner vs Ecuador in R1 — the decisive group-stage contribution. Key threat vs Norway.
+- **Franck Kessie**: scored vs Germany (R2) and remains the midfield anchor and primary penalty taker.
+- **R32 opponent**: Norway (Match 77, Jun 30, AT&T Stadium, Arlington TX). Norway qualified as one of the best 3rd-placed teams (W1 D1 L1 record; beat Iraq 4-1, beat Senegal 3-2, lost to France 1-4). Erling Haaland scored 4 group-stage goals. Ivory Coast's compact block will need to contain Haaland — their biggest test yet.

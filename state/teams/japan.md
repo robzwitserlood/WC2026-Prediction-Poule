@@ -11,7 +11,7 @@
 AFC qualifying record: 10 matches, 7W 2D 1L; 23 pts; **GF: 51 (includes 3 OG, excl 3-0 NK forfeit); GA: only 3**. First nation to clinch WC 2026 qualification (Mar 20 2025). Source: theanalyst.com (Opta), olympics.com (fetched 2026-06-10).
 
 ## Scoring profile
-- AFC WCQ: GF/g ≈ 5.1 (inflated by large wins; more context: double the scoring rate of Saudi Arabia)
+- AFC WCQ: GF/g approx 5.1 (inflated by large wins; more context: double the scoring rate of Saudi Arabia)
 - GA/g: 0.3 (3 goals conceded in 10 AFC matches)
 - Clean-sheet rate (qualifying): ~80% (rough estimate from 3 GA in 10 matches)
 - Conversion: 21.1% of 242 shots — 2nd in AFC qualifying (Opta)
@@ -55,3 +55,13 @@ Source: theanalyst.com, japantoday.com (2026-06-10)
 
 ## Mispricing flag
 **Japan is statistically the most dangerous "upset" team at the tournament.** Their results vs England (1-0), Scotland (1-0), Brazil (1-0) are not luck — they're a systemically mature team. They have 12 headed-goal contributions in qualifying (highest in AFC), 21.1% shot conversion, and 3 GA in 10 qualifiers. Yet bookmakers still price them at +300 for group win, implying they're a clear second behind Netherlands. **The value signal: Japan to beat Netherlands** (if Netherlands' injury-depleted defense starts misfiring) and **Japan to win Group F** (+300) are both defensible at current odds. Key risk: Mitoma absence and Endo fitness. If Endo starts fit, Japan have the system to beat any team in this group.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group F (W2 D1 L0, 7 GF 3 GA). Beat Tunisia 4-0 (R2 — Kamada, Ueda x2, Ito). Drew 1-1 with Sweden (R3 — Maeda). Topped the group qualification spots with Netherlands winning the group.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Wataru Endo**: captained Japan for the tournament despite pre-tournament ankle concerns — played all 3 group games and appears fit. No longer a doubt.
+- **Mitoma** (OUT, hamstring) and **Minamino** (OUT, ACL) remain absent — the pre-tournament injury list stands.
+- **Daichi Kamada** scored vs Tunisia (R2) and vs Netherlands (R1, 88') — in fine form as the deep creative threat. **Ayase Ueda** scored twice vs Tunisia — primary striker in form.
+- **R32 opponent**: Brazil (Match 74, Jun 29, NRG Stadium, Houston TX). Japan beat Brazil 1-0 in a pre-tournament friendly. Brazil are missing Raphinha (doubt), Militao, Rodrygo, Estavao. Japan's collective pressing and low-block counter system has dismantled top-10 nations before. Genuine upset potential.

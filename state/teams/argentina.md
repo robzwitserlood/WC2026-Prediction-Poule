@@ -58,3 +58,14 @@ POTENTIALLY UNDERVALUED at outright WC level vs France/Spain. CBS Sports specifi
 Group J specific: Argentina vs Algeria (Jun 16) should be straightforward —Algeria's defensive setup vs Argentina's pressing creates expected goals favoring Argentina 2-0 or 3-1. **Lautaro +EV on first scorer** markets if starting (very likely vs Algeria). Argentina -1.5 Asian handicap vs Jordan (Jun 26 in Miami) is likely value if Messi plays even partial minutes in the heat.
 
 Key watch: Emiliano Martínez finger injury — if he's not 100% and Argentina concede early to Algeria via set piece, the match could be more open than priced.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Won Group J (W3 D0 L0, 8 GF 0 GA, 9 pts). Beat Algeria 3-0 (R1 — Lo Celso 19', Martinez 31'(p), Messi 80'), beat Austria 2-0 (R2), beat Jordan 3-1 (R3 — Messi started on bench per coach). Maximum points, zero goals conceded.
+- **Lionel Messi**: 5 goals in 3 group games (including brace vs Algeria and Jordan). Despite pre-tournament hamstring concern, he has been fully functional and lethal. Benched for R3 start as precaution. Scaloni: Argentina are "calm" with Messi, Emiliano Martinez, and Julian Alvarez all fit. Source: ESPN 2026-06-27.
+- **Emiliano Martinez** (GK): fractured ring finger entering tournament — still keeping, clean sheets in all 3 group games. No escalation of concern.
+- **Lautaro Martinez**: scored vs Algeria (31', penalty) — in peak form with Inter Milan Serie A season carrying over.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Messi WC all-time record**: The R1 brace vs Algeria brought his career WC goal tally to 17 — now the all-time WC top scorer (surpassing Klose's 16). Source: Heavy.com, ESPN 2026.
+- **R32 opponent**: Cape Verde (Match 87, Jul 3, Hard Rock Stadium, Miami Gardens FL). Cape Verde qualified 2nd from Group H with three draws (0-0 vs Spain, 2-2 vs Uruguay, 0-0 vs Saudi Arabia). Goalkeeper Vozinha (40 years old) became a viral sensation after the Spain match. Argentina's squad value ($1 billion+) vs Cape Verde ($63.2 million) makes this the heaviest mismatch of the R32.

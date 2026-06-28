@@ -51,3 +51,14 @@ Sources (fetched 2026-06-10):
 - Goal.com — Cape Verde qualifying scorer (Livramento)
 - sportsbettingdime.com / Betfair — Group H odds
 - RotoWire — Group H tactical preview
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group H (W0 D3 L0, 2 GF 2 GA, 3 pts). Drew Spain 0-0 (R1), drew Uruguay 2-2 (R2 — Tavares 45+2', Rodrigues 71'), drew Saudi Arabia 0-0 (R3). Three consecutive draws — the most celebrated group-stage result of the tournament. Smallest nation ever to reach the WC knockout stage.
+- **Vozinha** (GK, age 40): became a global viral sensation after the 0-0 vs Spain. His save record across the group stage is genuinely outstanding — kept Spain, Uruguay, and Saudi Arabia from winning. The tournament's feel-good story. Source: Business Standard, Heavy.com 2026-06-27.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Ryan Mendes** (36, captain): the experience and leadership that held the group together. Still contributing.
+- **Gilson Tavares**: scored vs Uruguay (R2, 45+2'). Attackers contributing — the team is not just defending.
+- **Garry Rodrigues**: scored vs Uruguay (R2, 71') — the equalizer that kept the draw alive.
+- **R32 opponent**: Argentina (Match 87, Jul 3, Hard Rock Stadium, Miami Gardens FL). Argentina won Group J with maximum 9 pts and zero goals conceded. Messi has 17 WC career goals (all-time record). Cape Verde's only path is Vozinha heroics + set pieces (Diney aerial) + a disciplined low block. The $63M vs $1B+ squad value gap tells the structural story. But stranger things have happened in knockout football.

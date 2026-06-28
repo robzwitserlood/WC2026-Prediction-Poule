@@ -50,3 +50,14 @@ Colombia reached the 2024 Copa America final (lost to Argentina). In CONMEBOL qu
 ## Mispricing flag
 
 **Colombia matches will be higher-scoring than default Group K market lines suggest.** Their 1.0 GA/game in qualifying is the worst of the top-6 SA finishers, meaning scorelines like 2-1 or 3-1 are the natural output shape — not 1-0. **The over on Colombia game totals is structural value**. Additionally, James Rodriguez at age 34 with a fitness scare is underappreciated risk — his absence or poor form cascades immediately into Colombia's creative output. For individual game predictions: Colombia vs Uzbekistan (Mexico City, Jun 18) is a strong Colombia favourite; Colombia vs DR Congo (Guadalajara, Jun 23) is Colombia-favoured but expect a goal; Colombia vs Portugal (Miami, Jun 27) is the genuine group decider and likely 2-1 or 1-1 given both teams' attacking profiles.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Won Group K (W2 D1 L0, 4 GF 1 GA, 7 pts). Beat Uzbekistan 3-1 (R1 — Munoz 2 goals, Diaz), beat DR Congo 1-0 (R2 — Munoz 76'), drew Portugal 0-0 (R3). Won the group unbeaten. Source: Colombia One, Olympics.com 2026.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Jhon Cordoba Munoz**: 3 goals in 2 group games (R1 and R2 brace) — not the pre-tournament star names but the form player in Colombia's attack. Has overtaken expectations.
+- **Luis Diaz**: scored in R1. The primary expected threat came through — in form from Bayern Munich 2025-26 season.
+- **James Rodriguez**: no goals in the group stage but 7 WCQ assists reflect his creator role. Portugal 0-0 in R3 shows he can manage possession without scoring.
+- **Colombia 0-0 vs Portugal warning**: like Portugal, Colombia drew a blank in R3 with a mid-block — this approach works defensively but limits their own goal threat in tight knockout games.
+- **R32 opponent**: Ghana (Match 88, Jul 3, Arrowhead Stadium, Kansas City MO). Ghana qualified 3rd from Group L (drew England 0-0 R2, lost to Croatia 1-2 R3). Mohammed Kudus confirmed OUT for tournament (hamstring). Colombia are clear favourites. The Arrowhead atmosphere in Kansas City favours CONMEBOL energy over Ghana's weakened squad.

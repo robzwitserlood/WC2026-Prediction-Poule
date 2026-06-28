@@ -59,3 +59,14 @@ POTENTIAL VALUE vs. Austria (final group game, ~Jun 26). The market likely rates
 The narrative bias ("African team vs European team") historically underprices African teams in direct match-up markets. If Algeria needs a point or win from the Austria game to qualify, back Algeria +1 or X2 at value odds.
 
 Also: **Amoura first scorer vs Austria** (if Algeria need to attack) is value-priced given his 10 WCQ goals and Austrian high-defensive-line vulnerability.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group J (W1 D1 L1, 5 GF 7 GA, 4 pts). Lost to Argentina 0-3 (R1), beat Jordan 2-1 (R2 — Belghali 34', Mahrez 71'), drew Austria 3-3 (R3 — Belghali 45', Mahrez 60', Mahrez 90+3'). Qualified as 2nd from Group J.
+- **Riyad Mahrez**: 3 goals in 2 group games (all in R2 and R3). The 90+3' equalizer vs Austria to complete a 3-3 comeback is the moment of Algeria's group stage. In peak form for R32. Primary weapon. Source: group-r3.md results 2026-06-28.
+- **Belghali**: scored in R2 (34') and R3 (45') — a second consistent attacking source beyond Mahrez. Overperforming pre-tournament expectations.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Defensive alarm**: 7 GA in 3 group games (0-3 vs Argentina, 3-3 vs Austria). Switzerland's Amdouni (4 group goals) and Xhaka will test this defence severely. Algeria's path to an R32 upset requires a disciplined defensive shape — something they only achieved partially in the group.
+- **Mohamed Amoura**: CAF qualifying top scorer with 10 goals; quiet in the WC group stage (no goals listed). A performance concern — either injured, marked out, or being saved for the knockouts.
+- **R32 opponent**: Switzerland (Match 85, Jul 2, BC Place, Vancouver). Switzerland won Group B with 7 pts and Amdouni scored 4 goals. Algeria's Mahrez vs Switzerland's Akanji/Kobel is the marquee individual battle. The Vancouver covered-dome stadium suits Algeria's technical style — similar to indoor European football environments.

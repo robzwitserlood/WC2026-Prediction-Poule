@@ -56,3 +56,15 @@ Ghana qualified by topping CAF Group I with 25 pts from 10 games (8W 1D 1L, 23 G
 ## Mispricing flag
 
 **Ghana is likely worse than even Opta's 49.5% advance probability suggests.** The 5-1 to Austria and the Queiroz appointment 70 days before the tournament are markers of genuine dysfunction. The 0 WC clean sheets in 10 historical games predicts they will concede in every Group L game. **The value play is: Ghana to concede in all 3 group games (near certainty), and to underperform vs Panama** — Panama are priced at 40% to advance (Opta) but the market may have Ghana slightly too high relative to Panama given Kudus's absence, Djiku's injury, and the coaching change disruption. **Jordan Ayew at 5/1 for top Ghana scorer is specific value vs Semenyo 7/4** — Ayew's 14 qualifying contributions and his history as a penalty taker make the price gap unjustified (Sporting Life flag, 2026).
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Finished 3rd in Group L (W0 D1 L2, 1 GF 5 GA, 1 pt). Lost to Panama 0-2 (R1 — Panama scorers TBC), drew England 0-0 (R2), lost to Croatia 1-2 (R3 — Luckassen 73'(og), Croatia Sucic 31' Vlasic 83'). Qualified as one of the 8 best 3rd-placed teams with 1 point.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Mohammed Kudus**: confirmed OUT for entire tournament (hamstring surgery). Source: beIN Sports 2026-05-26. The defining absence for Ghana's knockout campaign — without him, the creative axis is missing entirely.
+- **Derrick Luckassen** (DEF, stood in for Alexander Djiku): scored an own goal vs Croatia (R3, 73') — confirmed in the group-r3 results. Djiku's hamstring injury left Ghana exposed at centre-back.
+- **Antoine Semenyo**: no goals in the group stage — the pre-tournament primary threat has been stifled across 3 games. Concerning output ahead of R32.
+- **Jordan Ayew**: drew 0-0 with England in R2 (Ghana's best result) — the experienced head in the team. The only scenario for an R32 upset requires Ayew's experience plus Semenyo's pace on the counter.
+- **Carlos Queiroz** (coach, 73): only 70 days in the job entering the tournament; tactical system not fully embedded.
+- **R32 opponent**: Colombia (Match 88, Jul 3, Arrowhead Stadium, Kansas City MO). Colombia won Group K with 7 pts and Munoz scored 3 goals in the group stage. Ghana qualified with just 1 point. Colombia are heavy favourites. The Ghana path to an upset is extremely narrow — a Semenyo pace exploit on the counter or a set-piece goal from Jordan Ayew is the only realistic template.

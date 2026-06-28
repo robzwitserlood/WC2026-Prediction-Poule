@@ -41,7 +41,7 @@ Sources: Squawka, Sports Mole, ESPN (fetched 2026-06-10)
 - Set-piece danger: Kimmich deliveries + Rudiger aerial threat (DEF, ~5 international goals)
 - Can be caught on counter (Switzerland 4-3 showed defensive leaks at 3 at the back pressure)
 - Historical WC: 4x champion; 2018 group-stage exit shock; 2022 group exit; chip-on-shoulder narrative for 2026
-- Heat/altitude fit: Germany based in European leagues (cold/temperate). June Texas/Gulf venues (Houston: avg 33°C, humid) could be a factor in game 1 vs Curaçao and other early rounds. Moderate concern.
+- Heat/altitude fit: Germany based in European leagues (cold/temperate). June Texas/Gulf venues (Houston: avg 33 degrees C, humid) could be a factor in game 1 vs Curacao and other early rounds. Moderate concern.
 - Travel: transatlantic, manageable for a major nation.
 
 ## Market read
@@ -51,3 +51,14 @@ Sources: Squawka, Sports Mole, ESPN (fetched 2026-06-10)
 
 ## Mispricing flag
 Germany is priced as an almost certain group winner (-250 to -325), yet they lost to Slovakia at home in qualifying and conceded 3 in a March friendly against Switzerland. Musiala is not fully match-sharp. The **under on Germany's goals vs. Ecuador** (a defensive team with 13 clean sheets in 18 qualifiers) could be value — market likely prices Germany to blow Ecuador out, but Ecuador's defensive structure is elite for CONMEBOL. Equally, **Ecuador +700 as a dark-horse group winner** has some statistical support given their 19-match unbeaten run, though Germany's talent gap is real.
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group E (W2 D0 L1, 10 GF 4 GA). Won big (7-1 vs Curacao, 2-1 vs Ivory Coast) but lost R3 to Ecuador 1-2 — shock result. Ecuador edged Germany to top spot.
+- **Suspensions**: No R32 suspensions. Nathan Ngoy (Belgium) red was served vs New Zealand — unrelated. Germany's own group-stage discipline was clean. Yellow cards reset. Source: 2026-06-28.
+- **Nico Schlotterbeck**: confirmed OUT for remainder of tournament with ankle ligament injury sustained in the Ivory Coast match (R2). Antonio Rudiger steps up as central defensive partner to Jonathan Tah. Source: ESPN, Bundesliga.com, FIFA.com, 2026-06-28.
+- **Serge Gnabry**: confirmed OUT for tournament (adductor). **Lennart Karl**: confirmed OUT (thigh). **Marc-Andre ter Stegen**: confirmed OUT (thigh). Source: ESPN injury tracker, 2026-06-28.
+- **Deniz Undav** scored twice vs Ivory Coast (R2) and is in sharp form as the striker rotation. **Leroy Sane** scored vs Ecuador (R3) — wide-right threat.
+- **Nathaniel Brown** (LB) scored vs Curacao (R1) and is a minor doubt after picking up a knock — monitor. Source: ESPN Germany preview, 2026-06-28.
+- **R32 opponent**: Paraguay (Match 75, Jun 29, Gillette Stadium, Foxborough MA). Paraguay's Miguel Almiron received a red card vs Turkey (R2) and served that ban vs Australia — **Almiron IS available for R32**. Paraguay lost all 3 group games (1-4 vs USA, 0-1 vs Turkey then lost Almiron, 0-0 vs Australia). Their record as group runners-up reflects a weak group D; Germany should be favourites despite losing R3.

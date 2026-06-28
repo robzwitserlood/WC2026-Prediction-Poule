@@ -47,3 +47,15 @@ Sources (fetched 2026-06-10):
 - SI.com — Egypt WC2026 preview
 - RotoWire — Group G tactical preview
 - Sportinglife — Group G betting tips
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Finished 2nd in Group G (W1 D2 L0, 4 GF 3 GA, 5 pts). Drew Belgium 1-1 (R1 — Salah 23'), beat New Zealand 3-1 (R2 — Salah, Marmoush x2), drew Iran 1-1 (R3 — Salah 88'). Historic — first time Egypt have reached the knockout stage of a World Cup.
+- **CRITICAL — Mohamed Salah**: suffered hamstring strain vs Iran (R3). Forced off during the match. Coach Hossam Hassan: "I talked to Salah, he said he's going to be okay. It's not a big injury." Availability for R32 is uncertain. Source: beIN Sports, The National, Flashscore 2026-06-27.
+- **Ahmed Fatouh** (LB): hamstring tear — OUT for R32 vs Australia. Source: The National 2026-06-27.
+- **Mohamed Abdelmonem** (CB): severe ankle bruise (subbed off vs Iran at 14'), but preparing to be available for R32. Source: The National 2026-06-27.
+- **Salah's group goals**: scored in all 3 group games (R1 23', R2, R3 88'). 3 goals + assists — in form despite the injury. Highest-profile injury concern of Egypt's tournament.
+- **Omar Marmoush**: scored twice vs New Zealand (R2). Vital second striker if Salah is limited.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **R32 opponent**: Australia (Match 86, Jul 3, AT&T Stadium, Arlington TX). Australia qualified 2nd from Group D (beat Turkey 2-0 in R1, drew Paraguay 0-0). Irankunda (20 years old) is their primary attacking threat. If Salah plays a full 90 minutes, Egypt are clear favourites. If Salah is absent or significantly limited, Australia are genuine R32 contenders.

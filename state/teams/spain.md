@@ -57,3 +57,15 @@ Sources (fetched 2026-06-10):
 - sportsbettingdime.com — Group H odds
 - RotoWire — Group H tactical preview
 - Wikipedia — Spain national team 31-game unbeaten run
+
+## Knockout signals (R32)
+_Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
+
+- **Group result**: Won Group H (W2 D1 L0, 5 GF 0 GA, 7 pts). Drew Cape Verde 0-0 (R1), beat Saudi Arabia 4-0 (R2 — Baena x2, Yamal, Morata), beat Uruguay 1-0 (R3 — Baena 42'). Perfect defensive record across 3 group games. Jorge Baena scored 3 goals in the group stage — the tournament's breakout star for Spain.
+- **CRITICAL — Nico Williams**: suffered right adductor muscle strain vs Uruguay (R3, stoppage time). Described as "moderate" by RFEF. Williams: "One of the worst days of my life." OUT or severely limited for R32 vs Austria. Source: ESPN, RFEF, Sports Mole, beIN Sports 2026-06-27.
+- **Yeremy Pino**: also picked up muscle injury vs Uruguay (R3). Moderate concern — availability for R32 uncertain. Source: ESPN 2026-06-27.
+- **Fermin Lopez** (MID, Barcelona): fractured metatarsal — OUT entire tournament. Pre-tournament absence confirmed.
+- **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
+- **Lamine Yamal**: fully fit across the group stage; scored vs Saudi Arabia. Primary wide threat for R32 with Williams potentially absent.
+- **Jorge Baena**: 3 goals in group stage — expected to start and potentially be Spain's most dangerous runner into the R32.
+- **R32 opponent**: Austria (Match 83, Jul 2, SoFi Stadium, LA CA). Austria qualified 3rd from Group J (4 pts). Marko Arnautovic, Marcel Sabitzer, and Sasa Kalajdzic all scored in the group stage. Despite Spain's injuries, they remain clear favourites. Austria's Rangnick high press could exploit Spain's right flank if both Williams and Pino miss.
