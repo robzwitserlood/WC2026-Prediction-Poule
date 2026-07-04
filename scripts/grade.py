@@ -53,12 +53,13 @@ GROUP_LENSES = ["stats", "contrarian", "conditions-market"]
 KO_LENSES = GROUP_LENSES + ["knockout-context"]
 
 # (label, advice_dir, decider_card, results_file, multiplier, lenses)
-# multiplier None = unconfirmed (R32 row is absent from state/poule-rules.md).
+# multiplier None = unconfirmed. R32 is now confirmed at 1x (state/poule-rules.md
+# Round-of-32 row: 60 toto / 90 exact), so it scores like the group base.
 STAGES = [
     ("Round 1", "round-1", "predictions/round-1.md", "results/group-r1.md", 1.0, GROUP_LENSES),
     ("Round 2", "round-2", "predictions/round-2.md", "results/group-r2.md", 1.0, GROUP_LENSES),
     ("Round 3", "round-3", "predictions/round-3.md", "results/group-r3.md", 1.0, GROUP_LENSES),
-    ("R32", "r32", "knockout/predictions-r32.md", "results/r32.md", None, KO_LENSES),
+    ("R32", "r32", "knockout/predictions-r32.md", "results/r32.md", 1.0, KO_LENSES),
     ("R16", "r16", "knockout/predictions-r16.md", "results/r16.md", 1.5, KO_LENSES),
     ("QF", "qf", "knockout/predictions-qf.md", "results/qf.md", 2.0, KO_LENSES),
     ("SF", "sf", "knockout/predictions-sf.md", "results/sf.md", 2.5, KO_LENSES),
