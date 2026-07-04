@@ -56,3 +56,12 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Achraf Hakimi**: scored vs Haiti (39') and providing set-piece quality throughout. Appears fully fit despite pre-tournament hamstring concerns. Source: ESPN, 2026-06-28.
 - **Ismael Saibari**: 3 group-stage goals — the tournament's breakthrough performer for Morocco. Key threat in R32.
 - **R32 opponent**: Netherlands (Match 76, Jun 29, Estadio BBVA, Monterrey MX). Netherlands carry major defensive injuries (de Ligt, de Vrij, Timber all OUT). Morocco's compact defensive block and Hakimi's delivery could cause problems. Ouahbi's coaching uncertainty remains the main risk factor.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Al Jazeera, CBS Sports, FIFA.com, ESPN, NBC Sports, Sports Mole). Fetched 2026-07-04._
+
+- **R32 result**: Morocco drew 1-1 with the Netherlands (M76) — Cody Gakpo (72') for the Dutch, Issa Diop (90+') for Morocco to force extra time, level after 120, then **Morocco won 3-2 on penalties**. Bounou saved the Dutch fourth kick (Summerville); Saibari converted the winner. A major statement result eliminating a heavyweight (albeit a defensively gutted one).
+- **Suspensions**: none reported from the Netherlands game.
+- **Injuries**: no fresh injury news; Hakimi and Bounou both "expected to be available" for R16 per Sports Mole's team-news preview — no issues flagged for either. Aguerd remains out (pre-existing, R32 note).
+- **Yassine Bounou**: the story of the R32 win — decisive penalty save. Confidence boost for a keeper who is central to Morocco's low-block identity.
+- **R16 opponent**: Canada (Match 90, Jul 4, NRG Stadium, Houston — closed dome, no heat/humidity factor). First-ever competitive meeting between the two sides. Ouahbi's coaching inexperience (flagged pre-tournament) has not been exposed yet — two extra-time/shootout ties survived intact.

@@ -52,3 +52,12 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Matias Galarza** scored Paraguay's only group-stage goal (vs Turkey, R2, 2'). **Julio Enciso** status: no further injury updates found; appears to have been absent or minimally involved in group stage given Paraguay's attacking output was near zero. Major concern for R32.
 - **Suspensions**: No R32 suspensions (yellow cards reset after group stage). Source: 2026-06-28.
 - **R32 opponent**: Germany (Match 75, Jun 29, Gillette Stadium, Foxborough MA). Paraguay face a significant quality gap against a Germany team that scored 10 goals in the group stage despite losing R3. Paraguay's defensive record (1 GF in 3 group games) suggests they will try to sit deep and counter — but without Enciso's creativity, a goal is hard to find. Almiron's return is their best hope.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Sky Sports, ESPN, Al Jazeera, FIFA.com, Sports Mole, RotoWire). Fetched 2026-07-04._
+
+- **R32 result — one of the round's biggest shocks**: Paraguay drew 1-1 with four-time champions Germany (M75; Enciso 42', Havertz 54'), then **won 4-3 on penalties** — Germany's first-ever World Cup shootout loss. Germany missed through Havertz, Woltemade and Tah; Paraguay also missed twice (Sanabria wide, Neuer saved Balbuena) before José Canale scored the winner. Julio Enciso **did play and scored** — the injury doubt from the pre-tournament Nicaragua friendly clearly resolved in Paraguay's favour by R32.
+- **Suspensions**: **Diego Gomez** served a one-game ban (two yellow cards in the group stage) and missed the Germany win — he **returns to the XI for R16** per Sports Mole's team news.
+- **Injuries**: Omar Alderete (CB) has not fully recovered from a knee injury from the final group game and is **expected to miss** the R16 tie. Julio Enciso and Gabriel Avalos are "carrying knocks" post-Germany and worth monitoring for fitness/rotation.
+- **Miguel Almiron**: available (red-card suspension already served in the group stage) and instrumental in the counter-attacking approach that troubled Germany.
+- **R16 opponent**: France (Match 89, Jul 4, Lincoln Financial Field, Philadelphia — open-air, hot/humid conditions typical for Philadelphia in early July). France have no reported injury concerns; Marcus Thuram remains a calf doubt. Paraguay are massive underdogs on paper but arrive with the tournament's signature shock result and Enciso/Almiron both healthy.

@@ -62,3 +62,12 @@ _Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
 - **Colombia 0-0 warning**: Portugal drew 0-0 with Colombia in R3 — could not break down a compact 5-4-1. Croatia will set up similarly to stifle Ronaldo. This is Portugal's primary R32 risk.
 - **Bruno Fernandes**: played all 3 group games but no goals recorded — the secondary playmaker is yet to click at this tournament.
 - **R32 opponent**: Croatia (Match 84, Jul 2, BMO Field, Toronto). Croatia beat Ghana 2-1 in R3 (Sucic 31', Vlasic 83'). Luka Modric (200+ caps, 40 years old) still pulling strings. Classic Portugal vs Croatia matchup — likely low-scoring, potentially going to extra time. Livakovic's penalty record (3 saves in 2022 WC shootout) is a structural Croatian advantage if it reaches pens.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Olympics.com, ESPN, FIFA.com, ClutchPoints, NBC News). Fetched 2026-07-04._
+
+- **R32 result**: Portugal beat Croatia 2-1 (M84; Perišić 53' Croatia, **Ronaldo 68' penalty**, Gonçalo Ramos 90+4'). Ronaldo's penalty came after a Vlašić foul on Veiga; Ramos headed the stoppage-time winner off a Rafael Leão cross. This resolved **in 90/added time — no shootout occurred**, so the Croatia-favoured PSO storyline (Livaković) never materialised.
+- **Cristiano Ronaldo**: scored his first-ever World Cup knockout-round goal with the equalising penalty — a milestone moment. No fresh injury concerns reported.
+- **Rafael Leão**: provided the assist for the winner — his pre-tournament red-card/suspension risk (from the Chile friendly) evidently did not carry into the tournament, and he looks sharp.
+- **Suspensions**: none reported from the Croatia game.
+- **R16 opponent**: Spain (Match 93, Jul 6, AT&T Stadium, Dallas/Arlington TX — retractable roof, expected closed/climate-controlled). A blockbuster Iberian tie between the #5 (Portugal) and #2 (Spain) ranked teams. Spain enter with confirmed injury absences (Nico Williams, Yeremy Pino both knocks from the group stage) — Portugal's full-strength attack (Ronaldo, Fernandes, Leão) against a Spain side missing wide depth is the central storyline.

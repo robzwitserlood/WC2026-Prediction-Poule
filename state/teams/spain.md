@@ -69,3 +69,13 @@ _Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
 - **Lamine Yamal**: fully fit across the group stage; scored vs Saudi Arabia. Primary wide threat for R32 with Williams potentially absent.
 - **Jorge Baena**: 3 goals in group stage — expected to start and potentially be Spain's most dangerous runner into the R32.
 - **R32 opponent**: Austria (Match 83, Jul 2, SoFi Stadium, LA CA). Austria qualified 3rd from Group J (4 pts). Marko Arnautovic, Marcel Sabitzer, and Sasa Kalajdzic all scored in the group stage. Despite Spain's injuries, they remain clear favourites. Austria's Rangnick high press could exploit Spain's right flank if both Williams and Pino miss.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (NBC LA/Washington, ESPN, TNT Sports, World Soccer Talk). Fetched 2026-07-04._
+
+- **R32 result**: Spain routed Austria 3-0 (M83; Mikel Oyarzabal 36' and 89', Pedro Porro 66') at SoFi Stadium. Oyarzabal's brace was the headline; Lamine Yamal was named MVP without scoring — 10+ dribbles and 10+ touches in the opposition box, youngest player to do both since 1966.
+- **Nico Williams**: still recovering from the R3 group-stage adductor strain — "no recovery timeline provided," but he **remains with the squad**, suggesting the injury is not tournament-ending; realistic return is framed as "later stages of the tournament," so he should be considered **OUT for R16** vs Portugal.
+- **Yeremy Pino**: same injury bucket as Williams — with the squad, not yet returned to matchday action, treat as OUT for R16.
+- **Suspensions**: none reported from the Austria game.
+- **Lamine Yamal**: fully recovered from the pre-tournament hamstring issue and in excellent form — started alongside Baena and Oyarzabal in a front three without Williams.
+- **R16 opponent**: Portugal (Match 93, Jul 6, AT&T Stadium, Dallas/Arlington TX — retractable roof, likely closed/climate-controlled). Portugal come in at full strength (Ronaldo scored his first-ever WC knockout goal vs Croatia; Leão in form). This is Spain's toughest test yet, compounded by the continued absence of two first-choice wide options.

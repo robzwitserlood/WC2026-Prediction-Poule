@@ -58,3 +58,12 @@ _Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
 - **Xherdan Shaqiri**: confirmed NOT in the squad — first WC without Shaqiri since 2010. The wide creative playmaker's absence is a structural gap on the left.
 - **Breel Embolo**: injury history concerns pre-tournament; his role in the group stage vs Amdouni's emergence suggests he may be operating second-fiddle. Watch for the Embolo/Amdouni partnership in R32.
 - **R32 opponent**: Algeria (Match 85, Jul 2, BC Place, Vancouver). Algeria qualified 2nd from Group J (beat Jordan 2-1 R2, drew Austria 3-3 R3 — Mahrez brace including 90+3' equalizer). Riyad Mahrez is the primary threat and in peak form. Switzerland are clear favourites but Mahrez's set-piece and free-kick quality demand respect.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Sky Sports, Al Jazeera, France 24, ESPN). Fetched 2026-07-04._
+
+- **R32 result**: Switzerland beat Algeria 2-0 (M85; Breel Embolo 10', Dan Ndoye 46' — 48 seconds into the second half) — Switzerland's first World Cup knockout win in 88 years. Embolo's goal followed a Johan Manzambi individual run down the right.
+- **Breel Embolo**: back among the goals in the knockout stage after playing second-fiddle to Amdouni for parts of the group stage — a positive fitness/form signal after his pre-tournament injury history was flagged as the team's key risk.
+- **Suspensions**: none reported from the Algeria game.
+- **Injuries**: no fresh injury news; the squad appears fully healthy heading into R16.
+- **R16 opponent**: Colombia (Match 96, Jul 7, BC Place, Vancouver BC — closed/covered dome, no weather factor). Colombia advanced with a 1-0 win over Ghana (Jhon Arias). Switzerland remain the more battle-tested defensive unit (3 GA in the group + 0 GA in R32) against a Colombian side whose qualifying defensive record (1.00 GA/game) is a structural concern flagged in Colombia's own file.

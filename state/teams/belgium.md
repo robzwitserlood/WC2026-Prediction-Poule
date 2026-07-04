@@ -57,3 +57,12 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Kevin De Bruyne**: scored vs New Zealand (R3, 66'). Fitness confirmed across 3 group games.
 - **Leandro Trossard**: two goals in the R3 5-1 win — the standout performer of the group stage for Belgium.
 - **R32 opponent**: Senegal (Match 81, Jul 1, Lumen Field, Seattle WA). Senegal beat Iraq 5-0 in R3 and qualified as Group I runners-up. Sadio Mane is 34 but remains dangerous. Belgium's set-piece quality (De Bruyne delivery) vs Senegal's aerial defenders (Koulibaly) is the tactical battle to watch.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Sky Sports, Al Jazeera, FIFA.com, NBC News). Fetched 2026-07-04._
+
+- **R32 result — major comeback**: Belgium trailed Senegal 2-0 (Habib Diarra 25', Ismaila Sarr 51') deep into the second half before **Romelu Lukaku (86') and Youri Tielemans (89')** scored twice in stoppage time to force extra time, then **Tielemans converted a VAR-awarded penalty in the 117th minute** (foul by Lamine Camara) to win it 3-2 after extra time. One of the round's best comebacks; no shootout was needed.
+- **Suspensions**: none reported from the Senegal game; Nathan Ngoy's earlier suspension (group stage) is fully served.
+- **Injuries**: no fresh injury news for Belgium from the R32 game. Lukaku and De Bruyne both look match-sharp and decisive in the biggest moments — pre-tournament fitness doubts (Lukaku hip, De Bruyne eye) both appear fully resolved.
+- **Fatigue flag**: Belgium played a full 120 minutes in R32 (extra time) — one fewer rest day than a team that won in 90, worth monitoring for a compressed R16 turnaround (Jul 1 → Jul 6, so they do have 5 days' rest, mitigating the concern).
+- **R16 opponent**: United States (Match 94, Jul 6, Lumen Field, Seattle WA — open-air, mild/dry evening, no heat concern). USA reached R16 via a 2-0 win over Bosnia but will be **without Folarin Balogun (red card, one-match ban)**. Belgium's attacking depth (De Bruyne, Lukaku, Trossard) against a USA side missing its in-form striker is a clear advantage for the Belgians.

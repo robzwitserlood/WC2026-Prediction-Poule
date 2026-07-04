@@ -52,3 +52,12 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Neymar**: came off the bench for a cameo in the Scotland match (R3) — available and building minutes. Not a starter but a game-changer option. Ancelotti has confirmed he will be available. Source: TNT Sports, 2026-06-28.
 - **Militao**: confirmed OUT for tournament (hamstring). **Rodrygo**: confirmed OUT (ACL). **Estavao**: confirmed OUT (hamstring). Source: ESPN injury tracker, 2026-06-28.
 - **R32 opponent**: Japan (Match 74, Jun 29, NRG Stadium, Houston TX). Japan beat Brazil 1-0 in a pre-tournament friendly. Raphinha's availability is the decisive squad variable — without him Brazil's set-piece and wide-play creativity is reduced.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (ESPN, Olympics.com, Al Jazeera, FIFA.com, cryptobriefing.com, Bolavip, Goal.com). Fetched 2026-07-04._
+
+- **R32 result**: Brazil beat Japan 2-1 (M74; Sano 29' Japan, Casemiro 56', Martinelli 90+5') — avoided a shock via a stoppage-time Gabriel Martinelli winner. A tighter game than the group-stage form suggested.
+- **Raphinha**: **ruled OUT of the Norway R16 match** with the hamstring/thigh injury carried from the group stage — confirmed absence (not just a doubt) per cryptobriefing.com's dedicated report. However, other sources (Goal.com) reported him **back in training** ahead of the tie, with Ancelotti planning a "late call" — status should be treated as a genuine game-time decision, trending toward doubtful-to-out. This is Brazil's single biggest squad swing factor for R16.
+- **Neymar**: played only 14 minutes total across the group stage (did not feature at all vs Japan in R32 per Bolavip/Yahoo) — still managing the calf issue; available as an impact substitute only, not a starter.
+- **Suspensions**: none reported from the Japan game.
+- **R16 opponent**: Norway (Match 91, Jul 5, MetLife Stadium, East Rutherford NJ — open-air, warm/humid). Norway reached the R16 via Haaland's 86th-minute winner over Ivory Coast; Haaland is red-hot (4 group goals + the R32 winner). Brazil's Raphinha uncertainty is the swing variable in what was already a tricky assignment against in-form opposition.

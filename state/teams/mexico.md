@@ -58,3 +58,12 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Julian Quinones**: scored twice in the group stage (R1 and R3) — the competition's emergence story for Mexico; key wide threat.
 - **Guillermo Ochoa** (GK, 39): played all 3 games at Azteca / high-altitude venues. The biggest concern now is the transition to sea-level venue in the R32.
 - **R32 opponent**: Ecuador (Match 79, Jun 30, Estadio Azteca, Mexico City MX). Ecuador shockingly topped Group E, beating Germany 2-1 in R3. Mexico stay at Azteca (home altitude advantage). Ecuador's Nilson Angulo and Gonzalo Plata were their R3 scorers. This is a high-stakes CONMEBOL vs CONCACAF clash on Mexican turf.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Al Jazeera, ESPN, CBS Sports, FIFA.com, Sports Mole). Fetched 2026-07-04._
+
+- **R32 result**: Mexico beat Ecuador 2-0 (M79; Julián Quiñones 22', Raúl Jiménez 31') at Estadio Azteca — a dominant home-soil performance that broke a 40-year World Cup knockout-round drought (Mexico's first R32/R16-stage win since 1986). Match delayed roughly an hour by storms.
+- **Suspensions**: Cesar Montes' one-match ban (R1 red card) is fully served; no new cards/suspensions reported from the Ecuador game.
+- **Guillermo Ochoa** (GK, 39): started again at altitude; still the primary concern flagged is his workload/age heading into R16, which is at sea level in Mexico City itself (Azteca stays at altitude — so no venue change for this tie specifically, since R16 is also at Estadio Azteca).
+- **Raúl Jiménez / Julián Quiñones**: both scored in R32, both in clear form entering R16 — Mexico's most reliable attacking outlet through two knockout-adjacent rounds (group + R32).
+- **R16 opponent**: England (Match 92, Jul 5, Estadio Azteca, Mexico City MX — altitude ~2,240m, 8:00 PM ET kickoff). Mexico retain their home-altitude advantage against a sea-level-based England side (Kane/Bellingham etc. all Premier League/European-based). England reported no suspensions and only fitness-management doubts (Rice hamstring tightness, Quansah ankle) — Mexico's altitude edge plus home crowd is the central storyline for this tie.

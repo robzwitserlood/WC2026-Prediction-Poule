@@ -61,3 +61,13 @@ _Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
 - **James Rodriguez**: no goals in the group stage but 7 WCQ assists reflect his creator role. Portugal 0-0 in R3 shows he can manage possession without scoring.
 - **Colombia 0-0 vs Portugal warning**: like Portugal, Colombia drew a blank in R3 with a mid-block — this approach works defensively but limits their own goal threat in tight knockout games.
 - **R32 opponent**: Ghana (Match 88, Jul 3, Arrowhead Stadium, Kansas City MO). Ghana qualified 3rd from Group L (drew England 0-0 R2, lost to Croatia 1-2 R3). Mohammed Kudus confirmed OUT for tournament (hamstring). Colombia are clear favourites. The Arrowhead atmosphere in Kansas City favours CONMEBOL energy over Ghana's weakened squad.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Yahoo Sports). Fetched 2026-07-04._
+
+- **R32 result**: Colombia beat Ghana 1-0 (M88; Jhon Arias 14') at Arrowhead Stadium, dominating possession 61%-39% throughout — a controlled, professional performance against a weakened Ghana side (already without Mohammed Kudus).
+- **Suspensions**: none reported from the Ghana game.
+- **Injuries**: no fresh injury news found; James Rodríguez's fitness/match sharpness at 34 remains the longer-running watch item from the group stage, but no new setback reported.
+- **Jhon Cordoba Munoz / Luis Díaz**: Díaz's strike partner Munoz did not add to his group-stage tally in R32; Arias stepped up as the matchwinner instead — a sign of squad-wide attacking depth beyond the two headline names.
+- **Structural concern still live**: Colombia's porous qualifying defence (1.00 GA/game) was not tested by a diminished Ghana attack — R16 vs a well-organised Switzerland side is a much sterner test of that defensive frailty.
+- **R16 opponent**: Switzerland (Match 96, Jul 7, BC Place, Vancouver BC — closed/covered dome, no weather factor). Switzerland reached R16 via a comfortable 2-0 win over Algeria (Embolo, Ndoye) and have conceded just 3 goals across the group stage plus a clean sheet in R32 — the tightest defensive record Colombia have faced all tournament.

@@ -57,3 +57,12 @@ _Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
 - **Yunus Musah**: excluded from Pochettino's plans — not in squad. Source: Yahoo Sports 2026.
 - **Matt Turner** (GK, Arsenal): kept a clean sheet in R2 vs Australia; solid across all 3 group games.
 - **R32 opponent**: Bosnia and Herzegovina (Match 82, Jul 1, Levi's Stadium, Santa Clara CA). Bosnia qualified as 3rd in Group B (4 pts, beat Qatar 3-1 in R3). Edin Dzeko (age 40) leads their attack. USA are clear favourites on home soil with Pulisic's potential full return.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (ESPN, CBS News, US Soccer, NBC Bay Area). Fetched 2026-07-04._
+
+- **R32 result**: USA beat Bosnia and Herzegovina 2-0 (M82; Folarin Balogun 45', Malik Tillman 82' free kick) — the USA's first World Cup knockout win since 2002.
+- **CRITICAL — Folarin Balogun RED CARD AND SUSPENSION**: sent off just after the hour mark for serious foul play (a challenge on Bosnia's Tarik Muharemovic, upgraded via VAR review). This is a straight red — **automatic one-match ban, no appeal process under FIFA rules** — **Balogun is confirmed OUT for the R16 tie vs Belgium**. There is a live possibility FIFA's disciplinary panel could extend the ban beyond one match, but no decision has been made as of this update; treat a longer ban as a tail risk to monitor.
+- **Squad impact**: USA played the last ~30 minutes of the Bosnia win a man down and still saw it through — a positive resilience signal, but they now go into R16 without their in-form striker.
+- **Christian Pulisic**: no fresh injury news from the Bosnia game; presumed available, still building sharpness after the earlier calf issue.
+- **R16 opponent**: Belgium (Match 94, Jul 6, Lumen Field, Seattle WA — open-air but mild/dry July evening, no heat concern). Belgium reached R16 via an extra-time comeback win over Senegal (Lukaku brace-adjacent contribution, Tielemans penalty winner in the 117th). USA must replace Balogun's goal threat — likely Haji Wright or Ricardo Pepi starting up top.

@@ -59,3 +59,13 @@ _Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
 - **Omar Marmoush**: scored twice vs New Zealand (R2). Vital second striker if Salah is limited.
 - **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
 - **R32 opponent**: Australia (Match 86, Jul 3, AT&T Stadium, Arlington TX). Australia qualified 2nd from Group D (beat Turkey 2-0 in R1, drew Paraguay 0-0). Irankunda (20 years old) is their primary attacking threat. If Salah plays a full 90 minutes, Egypt are clear favourites. If Salah is absent or significantly limited, Australia are genuine R32 contenders.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Yahoo Sports). Fetched 2026-07-04._
+
+- **R32 result**: Egypt drew 1-1 with Australia (M86; Emam Ashour scored early for Egypt, Australia equalised via an own goal in the second half — exact minutes not independently confirmed beyond one source) and **won the shootout 4-2** to record Egypt's first-ever World Cup knockout-match win. This is a historic result for Egyptian football regardless of the Salah situation.
+- **Mohamed Salah**: played through the R32 tie despite the hamstring strain carried from the group stage — his exact involvement/minutes in the Australia game are not confirmed in the sources gathered; **his fitness for R16 remains the single biggest swing factor for Egypt** and should be checked again closer to kickoff.
+- **Suspensions**: none reported from the Australia game.
+- **Ahmed Fatouh** (LB): was ruled OUT for the R32 game with a hamstring tear (per the R32 update) — no confirmation yet on his return timeline for R16.
+- **Mohamed Abdelmonem** (CB): was working to be available for R32 after an ankle bruise — assume day-to-day, status for R16 unconfirmed.
+- **R16 opponent**: Argentina (Match 95, Jul 7, Mercedes-Benz Stadium, Atlanta GA — retractable roof, likely closed for the noon kickoff). Argentina reached R16 via an extra-time win over Cape Verde with Messi in commanding form. Egypt will need afitter Salah than the one carrying a hamstring strain since the group stage to have a realistic chance of springing the upset.

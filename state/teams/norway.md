@@ -69,3 +69,13 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Morten Thorsby Pedersen** scored vs Senegal (R2, 43') — also contributing.
 - **Thelo Aasgaard** scored vs France (R3, 21') — sign of squad depth.
 - **R32 opponent**: Ivory Coast (Match 77, Jun 30, AT&T Stadium, Arlington TX). Ivory Coast are an AFCON champion with a compact defensive system. Haaland vs their low block is the central tactical battle. Norway's high defensive line is vulnerable to Amad Diallo and Yan Diomande's pace in behind.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Sky Sports, Yahoo Sports, ESPN, France 24, FIFA.com). Fetched 2026-07-04._
+
+- **R32 result**: Norway beat Ivory Coast 2-1 (M77; Nusa 39', Diallo 74' Ivory Coast, **Haaland 86'** — Sander Berge assist). Norway's first-ever World Cup knockout win, sending them into the Round of 16 for the first time since returning to a World Cup after a 28-year absence.
+- **Erling Haaland**: scored the winner, now clearly the tournament's most dangerous single-player threat for Norway across both group and knockout play. No fitness concerns reported.
+- **Martin Odegaard**: no fresh injury news; played through the R32 win, pre-tournament durability concerns have not resurfaced across 4 knockout-adjacent matches.
+- **Suspensions**: none reported from the Ivory Coast game.
+- **Structural concern flagged pre-tournament remains live**: Norway's high defensive line is the acknowledged weak point — Amad Diallo's pace exploited it for Ivory Coast's equaliser (74'), and Brazil's Vinícius Júnior profile poses a similar or greater threat.
+- **R16 opponent**: Brazil (Match 91, Jul 5, MetLife Stadium, East Rutherford NJ — open-air, warm/humid, plausibly favouring Brazil's heat tolerance). Brazil have a major fitness doubt of their own (Raphinha, hamstring/thigh) — a genuine opportunity for Norway's counter-attack given their high-event R32 win pattern.

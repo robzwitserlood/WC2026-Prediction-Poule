@@ -69,3 +69,13 @@ _Source: match-reporter group-stage review, web search. Fetched 2026-06-28._
 - **Suspensions**: No R32 suspensions. Yellow cards wiped. Source: 2026-06-28.
 - **Messi WC all-time record**: The R1 brace vs Algeria brought his career WC goal tally to 17 — now the all-time WC top scorer (surpassing Klose's 16). Source: Heavy.com, ESPN 2026.
 - **R32 opponent**: Cape Verde (Match 87, Jul 3, Hard Rock Stadium, Miami Gardens FL). Cape Verde qualified 2nd from Group H with three draws (0-0 vs Spain, 2-2 vs Uruguay, 0-0 vs Saudi Arabia). Goalkeeper Vozinha (40 years old) became a viral sensation after the Spain match. Argentina's squad value ($1 billion+) vs Cape Verde ($63.2 million) makes this the heaviest mismatch of the R32.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Yahoo Sports, ESPN, Fox Sports, Inter Miami CF, STARNEWS). Fetched 2026-07-04._
+
+- **R32 result — required extra time against Cape Verde's comeback**: Argentina won 3-2 after extra time (M87). **Messi scored (29') and assisted**, reaching an "unprecedented 20th career World Cup goal" per Korean outlet STARNEWS (updating the R32-era note that he'd already passed Klose in the group stage — confirms he keeps extending the all-time record). Cape Verde twice equalised (Deroy Duarte in the second half, Sidny Lopes Cabral 103') before Lisandro Martínez's extra-time goal and a late Argentina goal (initially credited to Romero, later re-attributed as a Cape Verde own goal per some trackers — **exact attribution unconfirmed, flagged in state/results/r32.md**) sealed it 3-2.
+- **Messi fitness**: played and was "the undisputed hero" of the win (goal + assist) — the pre-tournament hamstring concern is a non-issue at this point; he is fit and central to the team.
+- **Emiliano Martínez** (GK): continued to start through the R32 extra-time game; no new injury news, finger fracture appears fully managed.
+- **Suspensions**: none reported from the Cape Verde game.
+- **Fatigue flag**: Argentina played a full 120 minutes against a resilient underdog — one consideration for a squad now facing a quick turnaround into R16.
+- **R16 opponent**: Egypt (Match 95, Jul 7, Mercedes-Benz Stadium, Atlanta GA — retractable roof, likely closed for the noon kickoff, climate-controlled). Egypt advanced via a penalty shootout over Australia with **Mohamed Salah's hamstring status a live question** (he played through a strain in the group stage and R32) — if Salah is limited, Argentina should be clear favourites; watch for Salah's fitness news closer to kickoff.

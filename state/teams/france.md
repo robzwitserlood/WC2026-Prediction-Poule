@@ -65,3 +65,12 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **William Saliba**: played all 3 group games despite back surgery requirement post-tournament. Available but being managed.
 - **Hugo Ekitiike**: confirmed OUT for tournament (Achilles). Source: ESPN injury tracker, 2026-06-28.
 - **R32 opponent**: Sweden (Match 78, Jun 30, MetLife Stadium, East Rutherford NJ). Sweden qualified 3rd from Group F (drew 1-1 with Japan, beat Tunisia 5-1, drew 1-1 with Netherlands). Viktor Gyokeres scored twice in the group stage. France are clear favourites but Sweden's counter-attack via Gyokeres is a genuine threat to France's high line.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Al Jazeera, ESPN, Sky Sports, Sports Mole, RotoWire). Fetched 2026-07-04._
+
+- **R32 result**: France beat Sweden 3-0 (M78; Mbappé 44', Barcola 53', Mbappé 74') — a comfortable, dominant win. Mbappé's brace moved him level with Messi on 6 tournament goals and to 18 career World Cup goals — one behind Messi's all-time record of 19.
+- **Suspensions**: none reported.
+- **Injuries**: no fresh injury concerns from the Sweden game; Marcus Thuram remains a calf doubt carried over from before the tournament (not aggravated, but still "doubtful" per Sports Mole's Paraguay-France team news). No other issues flagged.
+- **Kylian Mbappé**: now on 6 tournament goals / 18 career WC goals, in career-defining form; workload/rotation still a long-range watch item given Deschamps' history of managing him, but no signs of it yet in the knockouts.
+- **R16 opponent**: Paraguay (Match 89, Jul 4, Lincoln Financial Field, Philadelphia — open-air, hot/humid). Paraguay arrive off the shock penalty-shootout elimination of Germany, with Diego Gomez back from a group-stage suspension and Julio Enciso fit and scoring. France remain clear favourites but the matchup (Deschamps' occasional sterility vs a mid/low-block side) is the recurring pre-tournament caution flag re-emerging at exactly this type of tie.

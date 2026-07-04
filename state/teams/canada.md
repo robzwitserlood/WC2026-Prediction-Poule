@@ -62,3 +62,12 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Alphonso Davies**: returned and played in R2 vs Qatar and R3 vs Switzerland — fully available for R32. Jonathan David scored a hat-trick vs Qatar (R2) — in excellent tournament form. Promise David scored vs Switzerland (R3) — squad depth showing.
 - **Marcelo Flores**: confirmed OUT for tournament (ACL rupture, pre-tournament). Source: ESPN injury tracker, 2026-06-28.
 - **R32 opponent**: South Africa (Match 73, Jun 28, SoFi Stadium, LA). Canada are favourites. Jonathan David's hat-trick form gives them a clear goal threat; Davies available and in form. South Africa arrive historic but tired — three games in two weeks for a squad unused to this level.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (ESPN, NBC LA/NBC News, Al Jazeera, FIFA.com). Fetched 2026-07-04._
+
+- **R32 result**: Canada beat South Africa 1-0 (M73, SoFi Stadium) — a tight, low-event game decided by a spectacular Stephen Eustáquio stoppage-time (90+2') strike, not by David or Davies. Canada's first-ever World Cup knockout win, and first-ever appearance in the Round of 16.
+- **Suspensions**: none reported; no red/second-yellow picked up in the South Africa game. Yellow cards from R32 carry a suspension risk only if repeated in R16 (2-yellow rule active R32→QF).
+- **Injuries**: Ismael Kone (broken leg, ruled out pre-tournament) remains the only confirmed long-term absence. Alphonso Davies came off the bench for the final ~15 minutes vs South Africa — his first international appearance since March 2025 — described as a rust/managed-minutes situation rather than a fresh injury; monitor his match sharpness/start likelihood for R16.
+- **Jonathan David**: quiet in the R32 win (no goal) — did not add to his group-stage hat-trick form; still expected to start.
+- **R16 opponent**: Morocco (Match 90, Jul 4, NRG Stadium, Houston — closed dome, no heat/humidity factor). Morocco arrive off a dramatic penalty-shootout win over the Netherlands (Bounou heroics) — no reported Morocco injuries. This is a first-ever meeting at a World Cup for either country in a genuine underdogs' derby (Canada's tournament debut in the knockouts vs Morocco's 2022 semi-final pedigree).
