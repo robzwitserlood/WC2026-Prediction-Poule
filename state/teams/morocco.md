@@ -65,3 +65,12 @@ _Source: match-reporter knockout-stage review, web search (Al Jazeera, CBS Sport
 - **Injuries**: no fresh injury news; Hakimi and Bounou both "expected to be available" for R16 per Sports Mole's team-news preview — no issues flagged for either. Aguerd remains out (pre-existing, R32 note).
 - **Yassine Bounou**: the story of the R32 win — decisive penalty save. Confidence boost for a keeper who is central to Morocco's low-block identity.
 - **R16 opponent**: Canada (Match 90, Jul 4, NRG Stadium, Houston — closed dome, no heat/humidity factor). First-ever competitive meeting between the two sides. Ouahbi's coaching inexperience (flagged pre-tournament) has not been exposed yet — two extra-time/shootout ties survived intact.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (FIFA.com, ESPN, Al Jazeera, Sky Sports, Yahoo Sports/RotoWire/BeSoccer). Fetched 2026-07-09._
+
+- **R16 result**: Morocco beat Canada 3-0 (M90) — Ounahi brace (50', 82'), Rahimi (90+8'). Won the game from just 5 shots, the fewest by a winning side in a WC knockout match since 1966. Brahim Díaz recorded 2 assists in the match (an African-record 4 assists for the tournament).
+- **Injuries**: **Ismael Saibari (Morocco's group-stage breakout scorer, 3 goals) went off injured during the Canada game** (reported as a muscle/suspected hamstring issue) and is a doubt for the QF vs France.
+- **Suspensions**: none for the QF. Achraf Hakimi is carrying a yellow card into the QF — would miss a semifinal if booked again vs France, but no QF availability risk (cards reset after the QF round).
+- **Achraf Hakimi / Yassine Bounou**: both remain fully available and central to Morocco's low-block, set-piece-and-counter identity.
+- **QF opponent**: France (Match 97, Jul 9, Gillette Stadium, Foxborough — open-air, mild). France carry their own fitness doubt (Tchouaméni, see france.md). Morocco reach back-to-back World Cup quarterfinals.

@@ -79,3 +79,13 @@ _Source: match-reporter knockout-stage review, web search (NBC LA/Washington, ES
 - **Suspensions**: none reported from the Austria game.
 - **Lamine Yamal**: fully recovered from the pre-tournament hamstring issue and in excellent form — started alongside Baena and Oyarzabal in a front three without Williams.
 - **R16 opponent**: Portugal (Match 93, Jul 6, AT&T Stadium, Dallas/Arlington TX — retractable roof, likely closed/climate-controlled). Portugal come in at full strength (Ronaldo scored his first-ever WC knockout goal vs Croatia; Leão in form). This is Spain's toughest test yet, compounded by the continued absence of two first-choice wide options.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (France24, ESPN, Al Jazeera, Yahoo Sports, Sports Mole, Squawka). Fetched 2026-07-09._
+
+- **R16 result**: Spain beat Portugal 0-1 (M93) via a stoppage-time Mikel Merino goal (90+1', Ferran Torres assist) — ended Cristiano Ronaldo's international career (he confirmed pre-match this would be his last World Cup). Spain's defensive record remains untouched: **0 goals conceded across the entire tournament through the QF** — a new tournament record for minutes without conceding, credited to GK Unai Simón.
+- **Nico Williams**: still short of full match sharpness from the R3 group-stage adductor strain, but is "managing a minor knock" and **expected to be fit to rejoin the matchday squad** for the Belgium QF — the clearest positive fitness signal yet after missing both R32 and R16. Alex Baena has deputised on the left throughout and remains a start candidate regardless.
+- **Yeremy Pino**: no fresh positive signal; likely still unavailable, same injury bucket as Williams.
+- **Suspensions**: none reported.
+- **Lamine Yamal**: in career-best tournament form, fully fit, started alongside Baena vs Portugal.
+- **QF opponent**: Belgium (Match 98, Jul 10, SoFi Stadium, Los Angeles — fixed canopy roof, not fully climate-controlled). Belgium are missing **Amadou Onana (ACL tear, ruled out for the rest of the tournament)** — a significant blow to their midfield (see belgium.md). Spain's status as the pre-tournament "most likely final opponent" guess (see champion.md) is reinstated after surviving Portugal.

@@ -72,3 +72,19 @@ _Source: match-reporter group-stage review. Fetched 2026-06-28._
 - **Tino Livramento**: confirmed OUT for tournament (calf), replaced by Trevoh Chalobah. Source: ESPN injury tracker, 2026-06-28.
 - **Declan Rice**: managed through a lower back/hamstring issue across the group stage; played all 3 games but fitness is monitored. Source: ESPN, 2026-06-28.
 - **R32 opponent**: DR Congo (Match 80, Jul 1, Mercedes-Benz Stadium, Atlanta GA). DR Congo qualified as one of the best 3rd-placed teams after beating Uzbekistan 3-1 in R3 (Yoane Wissa with a brace). England are heavy favourites but DR Congo's pace on the counter (Wissa, Ngal'ayel Mukau) and their WC debutant energy should not be entirely dismissed.
+
+## R16 update
+_Source: match-reporter knockout-stage review, web search (Sky Sports, FIFA.com, englandfootball.com). Fetched 2026-07-04._
+
+- **R32 result**: England beat DR Congo 2-1 (M80) — came from behind (Cipenga 7' for DRC), Kane brace (75', 86', Gordon assisted the equaliser). Kane's goal took him to 13 career World Cup goals, above Pelé.
+- **R16 opponent**: Mexico (Match 92, Jul 5, Estadio Azteca, Mexico City — altitude ~2,240m). A genuine away-from-sea-level test at the co-host's own stadium.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (Sky Sports, Yahoo Sports, ESPN, Squawka, OneFootball, englandfootball.com, Athlon). Fetched 2026-07-09._
+
+- **R16 result**: England beat Mexico 3-2 (M92) at Estadio Azteca — Bellingham brace (36', 38'), Kane pen (60'). **Jarell Quansah sent off 54'** (straight red, VAR, high challenge on Jesús Gallardo) — England held on and won playing the final 36+ minutes with 10 men. **Champion bet SURVIVES** the altitude test.
+- **Suspensions**: **Jarell Quansah suspended for the QF vs Norway** (automatic 1-match ban from the red card). Ezri Konsa favourite to deputise at CB; **Reece James still not fit to train** and remains unavailable, so Djed Spence is the other cover option at right-back/CB.
+- **Injuries**: **Jordan Henderson ruled OUT of the rest of the tournament** — broke his arm/wrist in a freak fall while celebrating the Mexico win (climbing advertising hoardings), underwent surgery in Kansas City. Not a match injury, but removes a squad option.
+- **Yellow-card watch (semifinal risk only — cards reset again after the QF stage, so this is not a QF availability issue)**: Jude Bellingham, Declan Rice, Marc Guehi and Nico O'Reilly are all one booking away from a semifinal suspension if cautioned vs Norway.
+- **Harry Kane**: 6 tournament goals through R16, still the primary penalty taker and in career-defining form (past Lineker's all-time England WC scoring record).
+- **QF opponent**: Norway (Match 99, Jul 11, Hard Rock Stadium, Miami Gardens — open-air, hot/humid). Haaland co-leads the Golden Boot race (7 goals) after eliminating Brazil. Norway's camp has been hit by a **sickness bug** ahead of this game (see norway.md) — a soft mitigating factor for England, offset by playing without Quansah and Henderson.

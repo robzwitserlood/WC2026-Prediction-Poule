@@ -74,3 +74,12 @@ _Source: match-reporter knockout-stage review, web search (Al Jazeera, ESPN, Sky
 - **Injuries**: no fresh injury concerns from the Sweden game; Marcus Thuram remains a calf doubt carried over from before the tournament (not aggravated, but still "doubtful" per Sports Mole's Paraguay-France team news). No other issues flagged.
 - **Kylian Mbappé**: now on 6 tournament goals / 18 career WC goals, in career-defining form; workload/rotation still a long-range watch item given Deschamps' history of managing him, but no signs of it yet in the knockouts.
 - **R16 opponent**: Paraguay (Match 89, Jul 4, Lincoln Financial Field, Philadelphia — open-air, hot/humid). Paraguay arrive off the shock penalty-shootout elimination of Germany, with Diego Gomez back from a group-stage suspension and Julio Enciso fit and scoring. France remain clear favourites but the matchup (Deschamps' occasional sterility vs a mid/low-block side) is the recurring pre-tournament caution flag re-emerging at exactly this type of tie.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (FIFA.com, ESPN, Sunday Guardian, Yahoo Sports, Sports Mole, beIN Sports). Fetched 2026-07-09._
+
+- **R16 result**: France beat Paraguay 0-1 (M89) via a single Kylian Mbappé penalty (69'/70', foul on Désiré Doué) in a low-event, physical game — a much narrower margin than group-stage form suggested, with some recaps noting the referee let Paraguay's fouling go largely unchecked.
+- **Aurélien Tchouaméni**: fitness is "the dominant team-news story" heading into the Morocco QF — a genuine doubt, Manu Köné ready to deputise if he's unavailable.
+- **Kylian Mbappé**: now on 7 tournament goals, captaining the side, in career-defining form; no fresh injury concerns (the pre-tournament hamstring caution has not resurfaced).
+- **Suspensions**: none. Michael Olise is carrying a yellow card into the QF (semifinal suspension risk only if booked again, no QF availability risk since cards reset after the QF stage).
+- **QF opponent**: Morocco (Match 97, Jul 9, Gillette Stadium, Foxborough — open-air, mild). Morocco are without/doubtful for Ismael Saibari (their breakout R32/group scorer, see morocco.md) — a potential opening for France against an otherwise well-organised low block.

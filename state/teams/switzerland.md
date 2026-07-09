@@ -67,3 +67,12 @@ _Source: match-reporter knockout-stage review, web search (Sky Sports, Al Jazeer
 - **Suspensions**: none reported from the Algeria game.
 - **Injuries**: no fresh injury news; the squad appears fully healthy heading into R16.
 - **R16 opponent**: Colombia (Match 96, Jul 7, BC Place, Vancouver BC — closed/covered dome, no weather factor). Colombia advanced with a 1-0 win over Ghana (Jhon Arias). Switzerland remain the more battle-tested defensive unit (3 GA in the group + 0 GA in R32) against a Colombian side whose qualifying defensive record (1.00 GA/game) is a structural concern flagged in Colombia's own file.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (Yahoo Sports, BeSoccer, RotoWire, Bulinews, Athlon). Fetched 2026-07-09._
+
+- **R16 result**: Switzerland drew 0-0 with Colombia through 120 minutes (M96) and won **4-3 on penalties** — Rubén Vargas (a second-half substitute, himself a late fitness doubt pre-match) scored the winning kick; GK Gregor Kobel saved from Cucho Hernández. Switzerland reach their first World Cup quarterfinal since 1954.
+- **CRITICAL — Johan Manzambi**: Switzerland's **top scorer at the tournament (3 goals, 2 assists across the first four games)** suffered a **non-contact knee injury in training** before the Colombia game and missed R16 entirely. Coach Murat Yakin said post-match, "I don't think you can recover from an injury like that in such a short time" — **Manzambi is considered unlikely to be fit for the QF vs Argentina**, a significant loss to Switzerland's attacking threat.
+- **Suspensions**: none reported.
+- **Rubén Vargas**: fitness now confirmed after coming off the bench to score the winning penalty — no longer a doubt.
+- **QF opponent**: Argentina (Match 100, Jul 11, Arrowhead Stadium, Kansas City). Argentina are carrying their own fatigue flag after two straight 120-minute-adjacent knockout ties (see argentina.md); Switzerland's own R16 tie also ran the full 120 plus a shootout, so both sides arrive with heavy legs.

@@ -79,3 +79,14 @@ _Source: match-reporter knockout-stage review, web search (Sky Sports, Yahoo Spo
 - **Suspensions**: none reported from the Ivory Coast game.
 - **Structural concern flagged pre-tournament remains live**: Norway's high defensive line is the acknowledged weak point — Amad Diallo's pace exploited it for Ivory Coast's equaliser (74'), and Brazil's Vinícius Júnior profile poses a similar or greater threat.
 - **R16 opponent**: Brazil (Match 91, Jul 5, MetLife Stadium, East Rutherford NJ — open-air, warm/humid, plausibly favouring Brazil's heat tolerance). Brazil have a major fitness doubt of their own (Raphinha, hamstring/thigh) — a genuine opportunity for Norway's counter-attack given their high-event R32 win pattern.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (ESPN, CBS Sports, Al Jazeera, Yahoo Sports, Athlon). Fetched 2026-07-09._
+
+- **R16 result — the round's biggest shock**: Norway beat five-time champions Brazil 1-2 (M91) via a Haaland brace in the final 11 minutes (79', 90'); Neymar's stoppage-time penalty (90+10') was consolation only. Norway reach their **first-ever World Cup quarterfinal**.
+- **Squad illness concern**: Norway's camp has been hit by a **sickness bug** ahead of the England QF — Ståle Solbakken confirmed several players and staff with coughing, fever and fatigue. Jørgen Strand Larsen missed the tournament opener with illness; Marcus Holmgren Pedersen missed the Brazil R16 win with the same bug. Monitor squad availability closer to kickoff — a genuine, if soft, health/fatigue flag heading into the England QF.
+- **Suspensions**: none confirmed for the QF. Antonio Nusa is carrying a yellow card (semifinal suspension risk only, not QF).
+- **Erling Haaland**: 7 tournament goals, co-leading the Golden Boot race (with Mbappé/Messi); fully fit, no fitness concerns reported. Antonio Nusa (4 goals from the left) and Alexander Sorloth (right) round out the front line.
+- **Martin Ødegaard**: continues to start and orchestrate; pre-tournament durability concerns have not resurfaced across 5 knockout-adjacent matches.
+- **Structural concern still live**: Norway's high defensive line remains the acknowledged weak point — exposed in R32 by Ivory Coast's pace; England's attacking line (Bellingham et al.) poses a similar puzzle.
+- **QF opponent**: England (Match 99, Jul 11, Hard Rock Stadium, Miami Gardens — hot/humid). England are without suspended CB Jarell Quansah and have lost Jordan Henderson for the rest of the tournament (non-match injury).

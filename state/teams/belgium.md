@@ -66,3 +66,12 @@ _Source: match-reporter knockout-stage review, web search (Sky Sports, Al Jazeer
 - **Injuries**: no fresh injury news for Belgium from the R32 game. Lukaku and De Bruyne both look match-sharp and decisive in the biggest moments — pre-tournament fitness doubts (Lukaku hip, De Bruyne eye) both appear fully resolved.
 - **Fatigue flag**: Belgium played a full 120 minutes in R32 (extra time) — one fewer rest day than a team that won in 90, worth monitoring for a compressed R16 turnaround (Jul 1 → Jul 6, so they do have 5 days' rest, mitigating the concern).
 - **R16 opponent**: United States (Match 94, Jul 6, Lumen Field, Seattle WA — open-air, mild/dry evening, no heat concern). USA reached R16 via a 2-0 win over Bosnia but will be **without Folarin Balogun (red card, one-match ban)**. Belgium's attacking depth (De Bruyne, Lukaku, Trossard) against a USA side missing its in-form striker is a clear advantage for the Belgians.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (US Soccer, CNN, NBC Sports, FIFA.com, Sports Mole, CBNC/ESPN Balogun-suspension coverage). Fetched 2026-07-09._
+
+- **R16 result**: Belgium routed co-host USA 1-4 (M94) — De Ketelaere brace (9', 33') + an assist, Vanaken (57'), Lukaku (90+3'). Out-xG'd the USA 2.15 to 0.67. **Note**: Folarin Balogun's R32 red-card ban was unexpectedly lifted by FIFA before this match (a widely-reported, politically-charged one-off reversal) allowing him to play for the USA — he had a chance saved by Courtois but did not score, and it did not change the outcome.
+- **CRITICAL — Amadou Onana**: suffered a **right-knee ACL tear during the USA game** and is **ruled OUT for the rest of the tournament** — a major loss to Belgium's midfield engine room ahead of the Spain QF. Expect a reshuffle (De Bruyne pushed more central, Raskin/Vanaken alongside Tielemans covering the space Onana vacated).
+- **Kevin De Bruyne / Jérémy Doku / Romelu Lukaku**: all rested/managed minutes in the second half of the USA rout (De Bruyne rested entirely; Doku and Lukaku played only the final ~25 minutes) and are expected back to full starting minutes for the QF — freshness heading into a tough test.
+- **Suspensions**: none.
+- **QF opponent**: Spain (Match 98, Jul 10, SoFi Stadium, Los Angeles). Spain have not conceded a single goal all tournament — Belgium's biggest attacking test yet, now without their defensive-midfield anchor.

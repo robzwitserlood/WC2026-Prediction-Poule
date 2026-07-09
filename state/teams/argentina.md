@@ -79,3 +79,14 @@ _Source: match-reporter knockout-stage review, web search (Yahoo Sports, ESPN, F
 - **Suspensions**: none reported from the Cape Verde game.
 - **Fatigue flag**: Argentina played a full 120 minutes against a resilient underdog — one consideration for a squad now facing a quick turnaround into R16.
 - **R16 opponent**: Egypt (Match 95, Jul 7, Mercedes-Benz Stadium, Atlanta GA — retractable roof, likely closed for the noon kickoff, climate-controlled). Egypt advanced via a penalty shootout over Australia with **Mohamed Salah's hamstring status a live question** (he played through a strain in the group stage and R32) — if Salah is limited, Argentina should be clear favourites; watch for Salah's fitness news closer to kickoff.
+
+## Knockout update (qf)
+_Source: match-reporter knockout-stage review, web search (ESPN, Olympics.com, CBS Sports, NPR, Al Jazeera, MEXC). Fetched 2026-07-09._
+
+- **R16 result — major comeback**: Argentina trailed Egypt 0-2 (Yasser Ibrahim 15', Mostafa Zico 67') before scoring three times in the final 13 minutes (Cristian Romero 79', Messi 83', Enzo Fernández 90+2') to win 3-2. Messi had an earlier penalty saved (21') but still reached a record-extending 21st career World Cup finals goal. Egypt's camp has publicly disputed the officiating post-match (a live "FIFA dispute" story reported by Al Jazeera — not a results-affecting flag for Argentina's advance).
+- **Fatigue flag**: back-to-back knockout ties have both gone to the wire (R32 vs Cape Verde needed extra time; R16 vs Egypt required a grueling 3-goal comeback in the final 13 minutes) — the physical toll on Scaloni's squad is a genuine talking point heading into a fast turnaround (Jul 7 → Jul 11).
+- **Injury doubts for the QF**: **Facundo Medina** (LB) highly doubtful with a knock — Nicolás Tagliafico on standby. **Nico González** (winger) remains a doubt with a persistent ankle issue. **Lautaro Martínez** has dipped in form along with Thiago Almada and Nahuel Molina — **Julián Álvarez is pushing to start in Lautaro's place.**
+- **Lionel Messi**: expected to start despite a heavy recovery schedule; central and fully committed after driving the Egypt comeback.
+- **Emiliano Martínez** (GK): continues to start; the pre-tournament finger fracture remains fully managed, no fresh issue.
+- **Suspensions**: none reported.
+- **QF opponent**: Switzerland (Match 100, Jul 11, Arrowhead Stadium, Kansas City). Switzerland's own key attacking threat, Johan Manzambi, is unlikely to be fit for this game (see switzerland.md) — a mitigating factor for a fatigued Argentina.
