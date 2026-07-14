@@ -15,10 +15,10 @@ This pipeline routes each task to the cheapest model that can do it well — che
 | --- | --- | --- |
 | compute-standings | none (script) | `python3 scripts/standings.py <n>` — deterministic, zero tokens |
 | research-teams | Sonnet | delegate to the **`team-researcher`** subagent |
-| predict-round | **Opus ensemble** | 3× **`round-advisor`** (lenses) + 1× **`round-decider`**, all Opus — the betting edge |
+| predict-round | **Fable 5 ensemble** | 3× **`round-advisor`** (lenses) + 1× **`round-decider`**, all Fable 5 — the betting edge |
 | seed bracket | none (script) | `python3 scripts/knockout.py` — best-3rd selection + Annex C R32 seeding, deterministic, zero tokens |
 | predict-champion | **Opus** (single pass) | one **`champion-picker`** subagent — the 250-pt bonus |
-| predict-top-scorers | **Opus** (single pass) | one **`top-scorer-picker`** subagent — position-weighted scorer basket |
+| predict-top-scorers | **Fable 5** (single pass) | one **`top-scorer-picker`** subagent — position-weighted scorer basket |
 | orchestration (this skill) | Sonnet | runs in the main session — **set it to Sonnet** (`/model sonnet`) before driving the loop |
 
 Delegate with the `Agent` tool, naming the subagent in `subagent_type` (`team-researcher`, `round-advisor`, `round-decider`); each agent definition in `.claude/agents/` pins its own model, so you don't pass a model yourself. The subagents read their skill file as the spec, so the skills stay the single source of truth. **Don't** do research or prediction inline in the orchestrator — that defeats the routing.
@@ -34,7 +34,7 @@ Delegate with the `Agent` tool, naming the subagent in `subagent_type` (`team-re
 3. After round 3, the final group tables determine who advances. Summarize qualifiers per group.
 4. **Tournament-level bonus bets (once, after round 3 + its standings are written):**
    a. **Seed the bracket:** run `python3 scripts/knockout.py` — it picks the 8 best 3rd-placed teams and seeds the R32 → final bracket from the final standings into `state/knockout/bracket.md` (deterministic, zero tokens; flags any provisional 3rd-place cutoff or Annex C assignment). This *is* the seed step in the routing table.
-   b. **Spawn the two Opus pickers in parallel** (each a single subagent, no ensemble):
+   b. **Spawn the two bonus-bet pickers in parallel** (each a single subagent, no ensemble — `champion-picker` on Opus, `top-scorer-picker` on Fable 5):
       - **`champion-picker`** → `state/predictions/champion.md`: the most underrated genuine contender + path (the 250-pt bonus). Needs the seeded bracket from 4a.
       - **`top-scorer-picker`** → `state/predictions/top-scorers.md`: ranked 6 (top 4 submitted) by expected goals × Scorito position multiplier, grounded in our predicted scorelines. Needs `state/standings/round-3.md`.
 

@@ -13,12 +13,12 @@ This is the knockout sibling of [predict-round]. It uses the same value philosop
 scoring function (multipliers, 120-minute result, penalties-decide-but-don't-score) and a different
 context model (one-off ties, no standings — fatigue/suspensions/temperament instead).
 
-> **Runs as an all-Opus ensemble (the betting edge), now a panel of four.** When driven by
-> [run-knockout-stage], this is not one agent: **four `round-advisor` subagents** (model: opus) each
+> **Runs as an all-Fable 5 ensemble (the betting edge), now a panel of four.** When driven by
+> [run-knockout-stage], this is not one agent: **four `round-advisor` subagents** (model: claude-fable-5) each
 > predict the full stage through a distinct lens — `stats`, `contrarian`, `conditions-market`, and
 > the knockout-only **`knockout-context`** (suspensions / fatigue+rest / extra-time & penalty
 > temperament / big-game tactics) — and persist to `state/advice/<stage>/<lens>.md`. Then one
-> `round-decider` subagent (model: opus) reads all four **plus the running scorecard**
+> `round-decider` subagent (model: claude-fable-5) reads all four **plus the running scorecard**
 > (`state/grades/scorecard.md`, read as *judgment* about which lens has earned trust — not a formula)
 > and makes the final call by free, value-tilted synthesis, writing the canonical
 > `state/knockout/predictions-<stage>.md`. The decider may pick a scoreline no advisor proposed. All
@@ -147,4 +147,4 @@ just surface the status so the user sees it.
 
 - Re-picking the champion (locked) and predicting more than the *current* stage (the loop is
   rerun-driven, one stage per invocation — see [run-knockout-stage]).
-- The top-scorer basket re-pick is a separate Opus pass (`top-scorer-picker`), not part of this file.
+- The top-scorer basket re-pick is a separate Fable 5 pass (`top-scorer-picker`), not part of this file.

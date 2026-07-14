@@ -8,9 +8,9 @@ description: Pick the top-scorer basket (ranked 6, top 4 submitted) by maximisin
 Produce a **top-scorer basket**: a ranked **6**, of which the **top 4** are the Scorito submission
 (Scorito takes 4 per phase) and 5–6 are reserves. This is a **bonus value bet**.
 
-> **Runs as a single Opus pass (the `top-scorer-picker` agent).** This is a value pick, so it gets the
-> top tier — but it's a bonus bet, not the per-round match card, so it does **not** use the advisor
-> ensemble. One Opus agent reads this file as spec and writes the basket.
+> **Runs as a single Fable 5 pass (the `top-scorer-picker` agent).** This is a value pick — but it's a
+> bonus bet, not the per-round match card, so it does **not** use the advisor
+> ensemble. One Fable 5 agent reads this file as spec and writes the basket.
 
 ## Two modes (Scorito lets you re-pick 4 every phase)
 

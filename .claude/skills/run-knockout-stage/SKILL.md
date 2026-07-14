@@ -1,6 +1,6 @@
 ---
 name: run-knockout-stage
-description: Orchestrate ONE knockout stage transition of the WC2026 poule — report the just-finished stage's actuals, grade the lenses, then predict the next stage (R32 → R16 → QF → SF → Final) as a 4-lens Opus ensemble. Rerun once per real stage; the flow detects where it is. Use to drive the knockout phase.
+description: Orchestrate ONE knockout stage transition of the WC2026 poule — report the just-finished stage's actuals, grade the lenses, then predict the next stage (R32 → R16 → QF → SF → Final) as a 4-lens Fable 5 ensemble. Rerun once per real stage; the flow detects where it is. Use to drive the knockout phase.
 ---
 
 # run-knockout-stage
@@ -22,8 +22,8 @@ the value picks. You are the **orchestrator** — stay lightweight and **delegat
 | --- | --- | --- |
 | grade lenses | none (script) | `python3 scripts/grade.py` — deterministic, zero tokens |
 | report actuals / fixtures / history | Sonnet | the **`match-reporter`** subagent |
-| predict-knockout | **Opus ensemble** | 4× **`round-advisor`** (lenses) + 1× **`round-decider`**, all Opus — the betting edge |
-| predict-top-scorers (re-pick) | **Opus** (single pass) | one **`top-scorer-picker`** subagent |
+| predict-knockout | **Fable 5 ensemble** | 4× **`round-advisor`** (lenses) + 1× **`round-decider`**, all Fable 5 — the betting edge |
+| predict-top-scorers (re-pick) | **Fable 5** (single pass) | one **`top-scorer-picker`** subagent |
 | orchestration (this skill) | Sonnet | runs in the main session — **set it to Sonnet** (`/model sonnet`) |
 
 Delegate with the `Agent` tool naming the subagent in `subagent_type` (`match-reporter`,
